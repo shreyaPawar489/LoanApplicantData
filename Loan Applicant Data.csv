@@ -1,4 +1,4 @@
-Loan_ID,Gender,Married,Dependents,Education,Self_Employed,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,Credit_Score,Industry,Currency,lender_name,Lender_Min_Credit_Score,Restricted_Industry,Lender_Industry,Lender_Currency,Lender_Match,
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,Credit_Score,Industry,Currency,Lender_Name,Lender_Min_Credit_Score,Restricted_Industry,Lender_Industry,Lender_Currency,Lender_Match,
 LP001002,Male,No,0,Graduate,No,,360,1,Urban,Y,450,n/a,Peso,Oberbrunner-Miller,908,Other Consumer Services,n/a,Peso,Effertz-Hudson,if Industry == Lender_Industry  && Industry != Restricted_Industry 
 LP001003,Male,Yes,1,Graduate,No,128,360,1,Rural,N,500,Industrial Specialties,Sol,"Lindgren, Trantow and Von",901,Oil Refining/Marketing,Industrial Specialties,Sol,,if Credit_Score >= Lender_Min_Credit_Score
 LP001005,Male,Yes,0,Graduate,Yes,66,360,1,Urban,Y,550,Steel/Iron Ore,Rupiah,"Nicolas, Weissnat and Christiansen",874,n/a,Steel/Iron Ore,Rupiah,,if Lender_Currency == Currency
