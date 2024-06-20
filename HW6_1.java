@@ -1,3 +1,15 @@
+$ mkdir repo_cleanup
+$ cd repo_cleanup
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY .
+$ git filter-branch --force --index-filter \
+ "git rm --cached --ignore-unmatch key.txt" \
+ --prune-empty --tag-name-filter cat -- --all
+$ echo "key.txt" >> .gitignore
+$ git add .gitignore
+$ git commit -m "Add key.txt to .gitignore"
+$ git push origin --force --all
+$ git push origin --force --tags
+
 public class HW6_1 {
 
     //array toString method
