@@ -12,7 +12,7 @@ $ git push origin --force --tags
 
 public class HW6_1 {
 
-    //array toString method
+    //Array toString method
     public static void printArray(int[] arr){ //input is an int array
         for(int i = 0; i < arr.length; i++){ //iterates through indices
             System.out.print(arr[i] + " ");
