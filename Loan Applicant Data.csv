@@ -1,0 +1,1001 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,Credit_Score,Type,Currency,Lender_Name,Lender_Min_Credit_Score,Restricted_Type,Favorite_Type,Lender_Currency
+LP001002,Male,No,0,Graduate,No,,360,1,Urban,Y,450,n/a,Peso,Oberbrunner-Miller,908,Other Consumer Services,n/a,Peso
+LP001003,Male,Yes,1,Graduate,No,128,360,1,Rural,N,500,Industrial Specialties,Sol,"Lindgren, Trantow and Von",901,Oil Refining/Marketing,Industrial Specialties,Sol
+LP001005,Male,Yes,0,Graduate,Yes,66,360,1,Urban,Y,550,Steel/Iron Ore,Rupiah,"Nicolas, Weissnat and Christiansen",874,n/a,Steel/Iron Ore,Rupiah
+LP001006,Male,Yes,0,Not Graduate,No,120,360,1,Urban,Y,600,Electric Utilities: Central,Yuan Renminbi,"White, Reichert and Wuckert",306,Industrial Machinery/Components,Electric Utilities: Central,Yuan Renminbi
+LP001008,Male,No,0,Graduate,No,141,360,1,Urban,Y,650,Containers/Packaging,Euro,Rohan Inc,834,Electrical Products,Containers/Packaging,Euro
+LP001011,Male,Yes,2,Graduate,Yes,267,360,1,Urban,Y,700,Industrial Specialties,Zloty,Yundt and Sons,659,n/a,Industrial Specialties,Zloty
+LP001013,Male,Yes,0,Not Graduate,No,95,360,1,Urban,Y,750,Medical/Dental Instruments,Shilling,Wiza LLC,584,Packaged Foods,Medical/Dental Instruments,Shilling
+LP001014,Male,Yes,3+,Graduate,No,158,360,0,Semiurban,N,800,n/a,Yuan Renminbi,"Muller, Thompson and Turcotte",907,n/a,n/a,Yuan Renminbi
+LP001018,Male,Yes,2,Graduate,No,168,360,1,Urban,Y,850,Industrial Machinery/Components,Yuan Renminbi,Reichel Group,491,Newspapers/Magazines,Industrial Machinery/Components,Yuan Renminbi
+LP001020,Male,Yes,1,Graduate,No,349,360,1,Semiurban,N,780,Marine Transportation,Pataca,Hermann LLC,668,Computer Software: Prepackaged Software,Marine Transportation,Pataca
+LP001024,Male,Yes,2,Graduate,No,70,360,1,Urban,Y,620,n/a,Yuan Renminbi,Greenholt-Leffler,720,n/a,n/a,Yuan Renminbi
+LP001027,Male,Yes,2,Graduate,,109,360,1,Urban,Y,580,Engineering & Construction,Franc,Jones and Sons,326,Property-Casualty Insurers,Engineering & Construction,Franc
+LP001028,Male,Yes,2,Graduate,No,200,360,1,Urban,Y,530,n/a,Rupiah,"Ryan, Lesch and Hermiston",950,Consumer Electronics/Appliances,n/a,Rupiah
+LP001029,Male,No,0,Graduate,No,114,360,1,Rural,N,570,Major Pharmaceuticals,Real,Hackett Inc,337,n/a,Major Pharmaceuticals,Real
+LP001030,Male,Yes,2,Graduate,No,17,120,1,Urban,Y,640,Packaged Foods,Marka,"Leannon, Ritchie and Leannon",672,Real Estate Investment Trusts,Packaged Foods,Marka
+LP001032,Male,No,0,Graduate,No,125,360,1,Urban,Y,690,Marine Transportation,Yuan Renminbi,"Thiel, Gutkowski and Turcotte",929,Major Chemicals,Marine Transportation,Yuan Renminbi
+LP001034,Male,No,1,Not Graduate,No,100,240,,Urban,Y,740,Biotechnology: Biological Products (No Diagnostic Substances),Krone,Gottlieb LLC,809,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Krone
+LP001036,Female,No,0,Graduate,No,76,360,0,Urban,N,790,Major Pharmaceuticals,Franc,"Parisian, Simonis and Will",811,n/a,Major Pharmaceuticals,Franc
+LP001038,Male,Yes,0,Not Graduate,No,133,360,1,Rural,N,830,Marine Transportation,Dirham,"Treutel, Harber and Rutherford",680,Computer Software: Prepackaged Software,Marine Transportation,Dirham
+LP001041,Male,Yes,0,Graduate,,115,,1,Urban,Y,870,Real Estate Investment Trusts,Yuan Renminbi,West-McGlynn,865,Oil Refining/Marketing,Real Estate Investment Trusts,Yuan Renminbi
+LP001043,Male,Yes,0,Not Graduate,No,104,360,0,Urban,N,300,Oil/Gas Transmission,Ruble,Halvorson-Lehner,328,Home Furnishings,Oil/Gas Transmission,Ruble
+LP001046,Male,Yes,1,Graduate,No,315,360,1,Urban,Y,350,Telecommunications Equipment,Rupiah,Effertz-Harber,484,n/a,Telecommunications Equipment,Rupiah
+LP001047,Male,Yes,0,Not Graduate,No,116,360,0,Semiurban,N,400,n/a,Yuan Renminbi,Kemmer-Kuvalis,811,Aerospace,n/a,Yuan Renminbi
+LP001050,,Yes,2,Not Graduate,No,112,360,0,Rural,N,450,Major Pharmaceuticals,Euro,Spinka-Grady,387,Auto Manufacturing,Major Pharmaceuticals,Euro
+LP001052,Male,Yes,1,Graduate,,151,360,,Semiurban,N,500,Military/Government/Technical,Yuan Renminbi,Torphy Inc,427,Major Pharmaceuticals,Military/Government/Technical,Yuan Renminbi
+LP001066,Male,Yes,0,Graduate,Yes,191,360,1,Semiurban,Y,550,Major Banks,Yuan Renminbi,"Dach, McGlynn and Quitzon",482,Industrial Machinery/Components,Major Banks,Yuan Renminbi
+LP001068,Male,Yes,0,Graduate,No,122,360,1,Semiurban,Y,600,n/a,Pound,Considine LLC,815,Meat/Poultry/Fish,n/a,Pound
+LP001073,Male,Yes,2,Not Graduate,No,110,360,1,Urban,Y,650,n/a,Yuan Renminbi,"Hauck, Turcotte and Wiza",736,Computer Software: Prepackaged Software,n/a,Yuan Renminbi
+LP001086,Male,No,0,Not Graduate,No,35,360,1,Urban,N,700,Industrial Machinery/Components,Krona,Kuphal-Labadie,330,Consumer Electronics/Appliances,Industrial Machinery/Components,Krona
+LP001087,Female,No,2,Graduate,,120,360,1,Semiurban,Y,750,n/a,Krona,Bergstrom-Bailey,942,Biotechnology: Biological Products (No Diagnostic Substances),n/a,Krona
+LP001091,Male,Yes,1,Graduate,,201,360,,Urban,N,800,Life Insurance,Yuan Renminbi,"Considine, Predovic and Wiza",510,Specialty Insurers,Life Insurance,Yuan Renminbi
+LP001095,Male,No,0,Graduate,No,74,360,1,Urban,N,850,Industrial Machinery/Components,Zloty,Lueilwitz-O'Kon,525,Electronic Components,Industrial Machinery/Components,Zloty
+LP001097,Male,No,1,Graduate,Yes,106,360,1,Rural,N,780,Other Specialty Stores,Yuan Renminbi,Bins Inc,710,Business Services,Other Specialty Stores,Yuan Renminbi
+LP001098,Male,Yes,0,Graduate,No,114,360,1,Semiurban,Y,620,Multi-Sector Companies,Yuan Renminbi,Zemlak Inc,736,EDP Services,Multi-Sector Companies,Yuan Renminbi
+LP001100,Male,No,3+,Graduate,No,320,360,1,Rural,N,580,Real Estate Investment Trusts,Yuan Renminbi,"Schamberger, Grant and Boyer",797,Marine Transportation,Real Estate Investment Trusts,Yuan Renminbi
+LP001106,Male,Yes,0,Graduate,No,,360,1,Urban,Y,530,Fluid Controls,Dram,"Hilpert, O'Connell and Waters",366,EDP Services,Fluid Controls,Dram
+LP001109,Male,Yes,0,Graduate,No,100,,0,Urban,N,570,Major Pharmaceuticals,Dirham,"Abernathy, Kreiger and Murray",355,Telecommunications Equipment,Major Pharmaceuticals,Dirham
+LP001112,Female,Yes,0,Graduate,No,144,360,1,Semiurban,Y,640,Investment Managers,Euro,"Ryan, Roberts and Waters",731,Computer Software: Prepackaged Software,Investment Managers,Euro
+LP001114,Male,No,0,Graduate,No,184,360,1,Urban,Y,690,Specialty Insurers,Krona,"Schumm, Von and Kirlin",568,RETAIL: Building Materials,Specialty Insurers,Krona
+LP001116,Male,No,0,Not Graduate,No,110,360,1,Semiurban,Y,740,Real Estate Investment Trusts,Koruna,"Olson, Hane and Rempel",351,Major Banks,Real Estate Investment Trusts,Koruna
+LP001119,Male,No,0,Graduate,No,80,360,1,Urban,N,790,Major Chemicals,Peso,"Hudson, Koss and Kris",769,n/a,Major Chemicals,Peso
+LP001120,Male,No,0,Graduate,No,47,360,1,Urban,Y,830,n/a,Yuan Renminbi,Prohaska-Koepp,786,Investment Bankers/Brokers/Service,n/a,Yuan Renminbi
+LP001123,Male,Yes,0,Graduate,No,75,360,,Urban,Y,870,Miscellaneous,Ruble,Kiehn-VonRueden,741,EDP Services,Miscellaneous,Ruble
+LP001131,Male,Yes,0,Graduate,No,134,360,1,Semiurban,Y,301,Computer Software: Prepackaged Software,Peso,Effertz-Hudson,312,Business Services,Computer Software: Prepackaged Software,Peso
+LP001136,Male,Yes,0,Not Graduate,Yes,96,,1,Urban,Y,351,EDP Services,Euro,Nader-Kuhn,324,n/a,EDP Services,Euro
+LP001137,Female,No,0,Graduate,No,88,,1,Urban,Y,401,n/a,Peso,"Steuber, Effertz and Hermiston",512,Homebuilding,n/a,Peso
+LP001138,Male,Yes,1,Graduate,No,44,360,1,Urban,Y,451,Major Banks,Rand,Gibson LLC,404,Major Pharmaceuticals,Major Banks,Rand
+LP001144,Male,Yes,0,Graduate,No,144,360,1,Urban,Y,501,Major Pharmaceuticals,Dong,Abshire-Bechtelar,798,Medical/Nursing Services,Major Pharmaceuticals,Dong
+LP001146,Female,Yes,0,Graduate,No,120,360,0,Urban,N,551,Major Banks,Yuan Renminbi,"Dibbert, Paucek and Price",905,Other Consumer Services,Major Banks,Yuan Renminbi
+LP001151,Female,No,0,Graduate,No,144,360,1,Semiurban,Y,601,Biotechnology: Commercial Physical & Biological Resarch,Ruble,"Smitham, Carter and Torphy",422,EDP Services,Biotechnology: Commercial Physical & Biological Resarch,Ruble
+LP001155,Female,Yes,0,Not Graduate,No,100,360,1,Semiurban,Y,651,Business Services,Rupiah,Graham-Schimmel,614,n/a,Business Services,Rupiah
+LP001157,Female,No,0,Graduate,No,120,360,1,Semiurban,Y,701,n/a,Peso,Ward Inc,882,Real Estate Investment Trusts,n/a,Peso
+LP001164,Female,No,0,Graduate,No,112,360,1,Semiurban,N,751,Packaged Foods,Yuan Renminbi,Berge Group,495,Investment Bankers/Brokers/Service,Packaged Foods,Yuan Renminbi
+LP001179,Male,Yes,2,Graduate,No,134,360,1,Urban,N,801,EDP Services,Hryvnia,Schamberger-Denesik,701,Coal Mining,EDP Services,Hryvnia
+LP001186,Female,Yes,1,Graduate,Yes,286,360,0,Urban,N,851,Newspapers/Magazines,Afghani,Rippin-Waters,711,Finance: Consumer Services,Newspapers/Magazines,Afghani
+LP001194,Male,Yes,2,Graduate,No,97,360,1,Semiurban,Y,781,Investment Bankers/Brokers/Service,Peso,Collins Group,416,Electronic Components,Investment Bankers/Brokers/Service,Peso
+LP001195,Male,Yes,0,Graduate,No,96,360,1,Semiurban,Y,621,Semiconductors,Zloty,"Hoppe, Stehr and Effertz",667,Major Pharmaceuticals,Semiconductors,Zloty
+LP001197,Male,Yes,0,Graduate,No,135,360,1,Rural,N,581,Biotechnology: Biological Products (No Diagnostic Substances),Euro,Turcotte LLC,892,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Euro
+LP001198,Male,Yes,1,Graduate,No,180,360,1,Urban,Y,570,Other Pharmaceuticals,Koruna,Ward LLC,457,Precious Metals,Other Pharmaceuticals,Koruna
+LP001199,Male,Yes,2,Not Graduate,No,144,360,1,Urban,Y,640,Major Chemicals,Vatu,Yundt-Hermann,537,Movies/Entertainment,Major Chemicals,Vatu
+LP001205,Male,Yes,0,Graduate,No,120,360,1,Urban,Y,690,Shoe Manufacturing,Peso,"Morar, Cremin and Towne",472,Major Pharmaceuticals,Shoe Manufacturing,Peso
+LP001206,Male,Yes,3+,Graduate,No,99,360,1,Urban,Y,740,Services-Misc. Amusement & Recreation,Euro,Streich and Sons,853,Department/Specialty Retail Stores,Services-Misc. Amusement & Recreation,Euro
+LP001207,Male,Yes,0,Not Graduate,Yes,165,180,0,Rural,N,790,Building Products,Koruna,Kshlerin-Daugherty,401,n/a,Building Products,Koruna
+LP001213,Male,Yes,1,Graduate,No,,360,0,Rural,N,830,Auto Parts:O.E.M.,Dollar,Smitham LLC,487,Major Banks,Auto Parts:O.E.M.,Dollar
+LP001222,Female,No,0,Graduate,No,116,360,0,Semiurban,N,870,Major Banks,Baht,Fritsch-Ratke,632,Department/Specialty Retail Stores,Major Banks,Baht
+LP001225,Male,Yes,0,Graduate,No,258,360,1,Semiurban,N,301,Major Banks,Lev,"Jerde, Bosco and Adams",751,Plastic Products,Major Banks,Lev
+LP001228,Male,No,0,Not Graduate,No,126,180,0,Urban,N,351,Major Banks,Lira,"Mitchell, Halvorson and Torp",891,n/a,Major Banks,Lira
+LP001233,Male,Yes,1,Graduate,No,312,360,1,Urban,Y,401,Major Pharmaceuticals,Euro,"Osinski, Bailey and Murphy",545,Real Estate Investment Trusts,Major Pharmaceuticals,Euro
+LP001238,Male,Yes,3+,Not Graduate,Yes,125,60,1,Urban,Y,451,"Computer Software: Programming, Data Processing",Yuan Renminbi,"Prosacco, Torphy and Gutkowski",701,n/a,"Computer Software: Programming, Data Processing",Yuan Renminbi
+LP001241,Female,No,0,Graduate,No,136,360,0,Semiurban,N,501,Biotechnology: Biological Products (No Diagnostic Substances),Ruble,Wiegand-Muller,809,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Ruble
+LP001243,Male,Yes,0,Graduate,No,172,360,1,Urban,Y,551,"Computer Software: Programming, Data Processing",Yuan Renminbi,Davis LLC,645,Diversified Commercial Services,"Computer Software: Programming, Data Processing",Yuan Renminbi
+LP001245,Male,Yes,2,Not Graduate,Yes,97,360,1,Semiurban,Y,350,Major Banks,Euro,Ryan-Mraz,536,Major Banks,Major Banks,Euro
+LP001248,Male,No,0,Graduate,No,81,300,1,Semiurban,Y,400,Hospital/Nursing Management,Yuan Renminbi,Kunde Inc,399,Other Specialty Stores,Hospital/Nursing Management,Yuan Renminbi
+LP001250,Male,Yes,3+,Not Graduate,No,95,,0,Semiurban,N,450,Marine Transportation,Yuan Renminbi,"Lebsack, Frami and Heidenreich",431,Specialty Chemicals,Marine Transportation,Yuan Renminbi
+LP001253,Male,Yes,3+,Graduate,Yes,187,360,1,Semiurban,Y,500,n/a,Euro,Schowalter Group,792,Business Services,n/a,Euro
+LP001255,Male,No,0,Graduate,No,113,480,1,Urban,N,550,Steel/Iron Ore,Rupiah,Schiller-Welch,925,Major Banks,Steel/Iron Ore,Rupiah
+LP001256,Male,No,0,Graduate,No,176,360,1,Urban,N,600,Industrial Machinery/Components,Yuan Renminbi,Hegmann Group,893,n/a,Industrial Machinery/Components,Yuan Renminbi
+LP001259,Male,Yes,1,Graduate,Yes,110,360,1,Urban,N,351,Savings Institutions,Euro,Kshlerin-Kihn,852,Diversified Financial Services,Savings Institutions,Euro
+LP001263,Male,Yes,3+,Graduate,No,180,300,0,Semiurban,N,401,Television Services,Manat,Corkery Inc,570,Department/Specialty Retail Stores,Television Services,Manat
+LP001264,Male,Yes,3+,Not Graduate,Yes,130,360,,Semiurban,Y,451,Commercial Banks,Real,"Koelpin, Adams and Schmitt",605,Computer Software: Prepackaged Software,Commercial Banks,Real
+LP001265,Female,No,0,Graduate,No,111,360,1,Semiurban,Y,501,EDP Services,Dinar,Cruickshank Group,792,Radio And Television Broadcasting And Communications Equipment,EDP Services,Dinar
+LP001266,Male,Yes,1,Graduate,Yes,,360,1,Semiurban,Y,551,Business Services,Peso,"Thompson, Schmidt and O'Conner",872,Major Pharmaceuticals,Business Services,Peso
+LP001267,Female,Yes,2,Graduate,No,167,360,1,Urban,N,601,Natural Gas Distribution,Dollar,Donnelly-Daniel,524,"Computer Software: Programming, Data Processing",Natural Gas Distribution,Dollar
+LP001273,Male,Yes,0,Graduate,No,265,360,,Semiurban,N,651,Industrial Machinery/Components,Yuan Renminbi,"Koepp, Kulas and Lueilwitz",372,EDP Services,Industrial Machinery/Components,Yuan Renminbi
+LP001275,Male,Yes,1,Graduate,No,50,240,1,Urban,Y,701,Catalog/Specialty Distribution,Rial,"Bosco, Quigley and Blanda",546,Business Services,Catalog/Specialty Distribution,Rial
+LP001279,Male,No,0,Graduate,No,136,360,1,Semiurban,Y,751,Clothing/Shoe/Accessory Stores,Rupiah,"Abshire, Witting and Kohler",766,Broadcasting,Clothing/Shoe/Accessory Stores,Rupiah
+LP001280,Male,Yes,2,Not Graduate,No,99,360,,Semiurban,Y,801,Semiconductors,Rupiah,Toy-Hodkiewicz,542,Property-Casualty Insurers,Semiconductors,Rupiah
+LP001282,Male,Yes,0,Graduate,No,104,360,1,Semiurban,Y,301,n/a,Real,Gusikowski-Heaney,675,Electronics Distribution,n/a,Real
+LP001289,Male,No,0,Graduate,No,210,360,1,Urban,Y,351,Major Pharmaceuticals,Dollar,Rowe-Stokes,742,Major Pharmaceuticals,Major Pharmaceuticals,Dollar
+LP001310,Male,Yes,0,Graduate,No,175,360,1,Semiurban,Y,401,Business Services,Euro,McKenzie Inc,550,n/a,Business Services,Euro
+LP001316,Male,Yes,0,Graduate,No,131,360,1,Semiurban,Y,451,Finance: Consumer Services,Euro,"Monahan, Greenholt and Kulas",635,Savings Institutions,Finance: Consumer Services,Euro
+LP001318,Male,Yes,2,Graduate,No,188,180,1,Semiurban,Y,501,Savings Institutions,Euro,Wiegand Inc,712,n/a,Savings Institutions,Euro
+LP001319,Male,Yes,2,Not Graduate,No,81,360,1,Urban,Y,551,Computer Software: Prepackaged Software,Peso,Goyette-Boyle,401,Oil & Gas Production,Computer Software: Prepackaged Software,Peso
+LP001322,Male,No,0,Graduate,No,122,360,1,Semiurban,Y,350,n/a,Zloty,"Kautzer, Terry and Streich",848,Steel/Iron Ore,n/a,Zloty
+LP001325,Male,No,0,Not Graduate,No,25,120,1,Semiurban,Y,400,Power Generation,Yuan Renminbi,"Volkman, Mayer and Runte",620,Other Specialty Stores,Power Generation,Yuan Renminbi
+LP001326,Male,No,0,Graduate,,,360,,Urban,N,450,n/a,Dollar,Von and Sons,519,Investment Bankers/Brokers/Service,n/a,Dollar
+LP001327,Female,Yes,0,Graduate,No,137,360,1,Semiurban,Y,500,EDP Services,Koruna,Hahn LLC,428,n/a,EDP Services,Koruna
+LP001333,Male,Yes,0,Graduate,No,50,360,1,Semiurban,Y,550,Packaged Foods,Lek,O'Keefe-Altenwerth,301,n/a,Packaged Foods,Lek
+LP001334,Male,Yes,0,Not Graduate,No,115,180,1,Semiurban,Y,600,Major Banks,Franc,"VonRueden, Bogisich and Bahringer",631,Telecommunications Equipment,Major Banks,Franc
+LP001343,Male,Yes,0,Graduate,No,131,360,1,Semiurban,Y,351,Biotechnology: Biological Products (No Diagnostic Substances),Dinar,"Mann, Swift and Leffler",922,Medical Specialities,Biotechnology: Biological Products (No Diagnostic Substances),Dinar
+LP001345,Male,Yes,2,Not Graduate,No,133,180,1,Urban,Y,401,Business Services,Rupiah,Nitzsche-Bogan,615,Semiconductors,Business Services,Rupiah
+LP001349,Male,No,0,Graduate,No,151,360,1,Semiurban,Y,451,Electrical Products,Lempira,"Kreiger, Balistreri and Erdman",720,Real Estate Investment Trusts,Electrical Products,Lempira
+LP001350,Male,Yes,,Graduate,No,,360,1,Urban,Y,501,Real Estate Investment Trusts,Shilling,"Predovic, Jenkins and Volkman",635,Electric Utilities: Central,Real Estate Investment Trusts,Shilling
+LP001356,Male,Yes,0,Graduate,No,,360,1,Semiurban,Y,551,Medical/Dental Instruments,Dollar,Schneider-Kilback,536,Medical Specialities,Medical/Dental Instruments,Dollar
+LP001357,Male,,,Graduate,No,160,360,1,Urban,Y,601,Major Banks,Dollar,"Schulist, Murphy and Corwin",517,Savings Institutions,Major Banks,Dollar
+LP001367,Male,Yes,1,Graduate,No,100,360,1,Urban,Y,651,Industrial Machinery/Components,Yuan Renminbi,Kris LLC,421,Industrial Machinery/Components,Industrial Machinery/Components,Yuan Renminbi
+LP001369,Male,Yes,2,Graduate,No,225,360,1,Urban,Y,701,Biotechnology: Biological Products (No Diagnostic Substances),Peso,Buckridge-Macejkovic,461,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Peso
+LP001370,Male,No,0,Not Graduate,,120,360,1,Rural,N,350,Business Services,Peso,"Treutel, Simonis and Schuppe",524,Ophthalmic Goods,Business Services,Peso
+LP001379,Male,Yes,2,Graduate,No,216,360,0,Urban,N,400,Industrial Machinery/Components,Euro,Feeney-Baumbach,680,Medical/Dental Instruments,Industrial Machinery/Components,Euro
+LP001384,Male,Yes,3+,Not Graduate,No,94,480,1,Semiurban,Y,450,Life Insurance,Ruble,Jerde-Morar,712,Broadcasting,Life Insurance,Ruble
+LP001385,Male,No,0,Graduate,No,136,360,1,Urban,Y,500,Biotechnology: Commercial Physical & Biological Resarch,Balboa,West LLC,624,Semiconductors,Biotechnology: Commercial Physical & Biological Resarch,Balboa
+LP001387,Female,Yes,0,Graduate,,139,360,1,Semiurban,Y,550,Commercial Banks,Euro,Green-Rath,635,Oil & Gas Production,Commercial Banks,Euro
+LP001391,Male,Yes,0,Not Graduate,No,152,,0,Rural,N,600,Industrial Specialties,Yuan Renminbi,O'Hara LLC,801,Major Pharmaceuticals,Industrial Specialties,Yuan Renminbi
+LP001392,Female,No,1,Graduate,Yes,,360,1,Semiurban,Y,650,Restaurants,Real,Pouros and Sons,406,Computer Communications Equipment,Restaurants,Real
+LP001398,Male,No,0,Graduate,,118,360,1,Semiurban,Y,700,Major Pharmaceuticals,Zloty,"Morissette, Barrows and Armstrong",815,Computer Software: Prepackaged Software,Major Pharmaceuticals,Zloty
+LP001401,Male,Yes,1,Graduate,No,185,180,1,Rural,Y,750,Hotels/Resorts,Real,Johnston Inc,351,Medical/Nursing Services,Hotels/Resorts,Real
+LP001404,Female,Yes,0,Graduate,No,154,360,1,Semiurban,Y,800,Real Estate Investment Trusts,Yuan Renminbi,"Brekke, Murazik and Yundt",819,Military/Government/Technical,Real Estate Investment Trusts,Yuan Renminbi
+LP001405,Male,Yes,1,Graduate,No,85,360,,Urban,Y,850,Air Freight/Delivery Services,Ruble,Ebert-DuBuque,786,Plastic Products,Air Freight/Delivery Services,Ruble
+LP001421,Male,Yes,0,Graduate,No,175,360,1,Rural,N,780,Restaurants,Euro,Lang-Trantow,902,n/a,Restaurants,Euro
+LP001422,Female,No,0,Graduate,No,259,360,1,Urban,Y,620,Military/Government/Technical,Rupiah,Bayer-Sauer,692,n/a,Military/Government/Technical,Rupiah
+LP001426,Male,Yes,,Graduate,No,180,360,1,Rural,Y,580,Major Banks,Yuan Renminbi,Schoen Group,456,n/a,Major Banks,Yuan Renminbi
+LP001430,Female,No,0,Graduate,No,44,360,1,Semiurban,Y,530,Specialty Chemicals,Franc,Herman Group,522,Business Services,Specialty Chemicals,Franc
+LP001431,Female,No,0,Graduate,No,137,360,0,Semiurban,Y,570,Precious Metals,Euro,Spinka-Kuhlman,688,Plastic Products,Precious Metals,Euro
+LP001432,Male,Yes,2,Graduate,No,81,360,1,Semiurban,Y,640,Business Services,Yuan Renminbi,Hartmann-Beatty,791,n/a,Business Services,Yuan Renminbi
+LP001439,Male,Yes,0,Not Graduate,No,194,360,1,Rural,Y,690,Major Banks,Dollar,Bartell-Macejkovic,907,Restaurants,Major Banks,Dollar
+LP001443,Female,No,0,Graduate,No,93,360,,Rural,Y,740,Oil & Gas Production,Yuan Renminbi,"Pfeffer, Goyette and Beahan",590,Trucking Freight/Courier Services,Oil & Gas Production,Yuan Renminbi
+LP001448,,Yes,3+,Graduate,No,370,360,1,Rural,Y,790,Real Estate Investment Trusts,Zloty,Runolfsdottir-Fahey,695,Investment Managers,Real Estate Investment Trusts,Zloty
+LP001449,Male,No,0,Graduate,No,,360,1,Rural,Y,830,"Computer Software: Programming, Data Processing",Taka,Schimmel Inc,425,n/a,"Computer Software: Programming, Data Processing",Taka
+LP001451,Male,Yes,1,Graduate,Yes,160,180,0,Urban,N,870,Major Banks,Euro,"Roob, Heathcote and Stark",946,n/a,Major Banks,Euro
+LP001465,Male,Yes,0,Graduate,No,182,360,,Rural,N,500,n/a,Ringgit,Streich and Sons,630,n/a,n/a,Ringgit
+LP001469,Male,No,0,Graduate,Yes,650,480,,Urban,Y,550,Farming/Seeds/Milling,Yen,Mosciski-Barrows,870,Major Pharmaceuticals,Farming/Seeds/Milling,Yen
+LP001473,Male,No,0,Graduate,No,74,360,1,Urban,Y,600,Packaged Foods,Pound,"Hammes, Heller and Flatley",356,Business Services,Packaged Foods,Pound
+LP001478,Male,No,0,Graduate,No,70,360,1,Semiurban,Y,650,Consumer Electronics/Appliances,Yuan Renminbi,"Howell, Paucek and Smitham",873,n/a,Consumer Electronics/Appliances,Yuan Renminbi
+LP001482,Male,Yes,0,Graduate,Yes,25,120,1,Semiurban,Y,700,Major Pharmaceuticals,Lek,"MacGyver, Gorczany and Adams",936,Major Banks,Major Pharmaceuticals,Lek
+LP001487,Male,No,0,Graduate,No,102,360,1,Semiurban,Y,750,Advertising,Dollar,"Strosin, Krajcik and Borer",518,Real Estate Investment Trusts,Advertising,Dollar
+LP001488,Male,Yes,3+,Graduate,No,290,360,1,Semiurban,N,800,Transportation Services,Zloty,"Schimmel, Koelpin and King",444,Business Services,Transportation Services,Zloty
+LP001489,Female,Yes,0,Graduate,No,84,360,1,Rural,N,850,n/a,Naira,Balistreri-Grady,498,n/a,n/a,Naira
+LP001491,Male,Yes,2,Graduate,Yes,88,360,1,Urban,Y,780,Forest Products,Real,Torp-Willms,602,Semiconductors,Forest Products,Real
+LP001492,Male,No,0,Graduate,No,242,360,0,Semiurban,N,620,Real Estate Investment Trusts,Yuan Renminbi,"Schroeder, Mitchell and Olson",920,Computer Communications Equipment,Real Estate Investment Trusts,Yuan Renminbi
+LP001493,Male,Yes,2,Not Graduate,No,129,360,1,Rural,N,580,Engineering & Construction,Sol,Weissnat-Stamm,512,n/a,Engineering & Construction,Sol
+LP001497,Male,Yes,2,Graduate,No,185,360,1,Rural,N,530,n/a,Zloty,Kertzmann-Lemke,474,Natural Gas Distribution,n/a,Zloty
+LP001498,Male,No,0,Graduate,No,168,360,1,Urban,Y,570,Computer Software: Prepackaged Software,Peso,Gislason and Sons,604,Property-Casualty Insurers,Computer Software: Prepackaged Software,Peso
+LP001504,Male,No,0,Graduate,Yes,175,180,1,Semiurban,Y,640,Diversified Commercial Services,Euro,Lowe LLC,863,n/a,Diversified Commercial Services,Euro
+LP001507,Male,Yes,0,Graduate,No,122,360,1,Semiurban,Y,690,Home Furnishings,Peso,Pollich-Rolfson,497,Medical/Dental Instruments,Home Furnishings,Peso
+LP001508,Male,Yes,2,Graduate,No,187,180,1,Urban,Y,740,Hospital/Nursing Management,Rupiah,"Gorczany, Herman and Marvin",552,"Computer Software: Programming, Data Processing",Hospital/Nursing Management,Rupiah
+LP001514,Female,Yes,0,Graduate,No,100,360,1,Semiurban,Y,790,Consumer: Greeting Cards,Franc,Bradtke-Hyatt,910,n/a,Consumer: Greeting Cards,Franc
+LP001516,Female,Yes,2,Graduate,No,70,360,1,Urban,Y,830,n/a,Rupiah,"MacGyver, Cormier and Goldner",587,Homebuilding,n/a,Rupiah
+LP001518,Male,Yes,1,Graduate,No,30,360,1,Urban,Y,870,Finance: Consumer Services,Peso,Ullrich and Sons,772,Power Generation,Finance: Consumer Services,Peso
+LP001519,Female,No,0,Graduate,No,225,360,1,Rural,N,300,Metal Fabrications,Rupiah,Wunsch Group,336,Marine Transportation,Metal Fabrications,Rupiah
+LP001520,Male,Yes,0,Graduate,No,125,360,1,Semiurban,Y,350,n/a,Krona,Lang Inc,817,n/a,n/a,Krona
+LP001528,Male,No,0,Graduate,No,118,360,0,Rural,N,400,n/a,Peso,Rice Group,797,n/a,n/a,Peso
+LP001529,Male,Yes,0,Graduate,Yes,152,360,1,Rural,Y,450,Major Chemicals,Krone,Paucek-Kilback,811,n/a,Major Chemicals,Krone
+LP001531,Male,No,0,Graduate,No,244,360,1,Urban,N,500,Semiconductors,Dram,Skiles LLC,347,n/a,Semiconductors,Dram
+LP001532,Male,Yes,2,Not Graduate,No,113,360,1,Rural,N,550,Major Chemicals,Yuan Renminbi,"Hilpert, Gutmann and Pouros",879,Clothing/Shoe/Accessory Stores,Major Chemicals,Yuan Renminbi
+LP001535,Male,No,0,Graduate,No,50,360,1,Urban,Y,600,Oilfield Services/Equipment,Rand,Marks-Beer,688,n/a,Oilfield Services/Equipment,Rand
+LP001536,Male,Yes,3+,Graduate,No,600,180,0,Semiurban,Y,650,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi,"Cormier, Zemlak and Boehm",594,Major Pharmaceuticals,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi
+LP001541,Male,Yes,1,Graduate,No,160,360,,Rural,Y,700,Major Banks,Peso,Koelpin and Sons,586,Marine Transportation,Major Banks,Peso
+LP001543,Male,Yes,1,Graduate,No,187,360,1,Urban,Y,750,Semiconductors,Real,"VonRueden, Erdman and Nikolaus",679,Restaurants,Semiconductors,Real
+LP001546,Male,No,0,Graduate,,120,360,1,Rural,Y,800,Semiconductors,Yuan Renminbi,Swift-Fahey,732,Real Estate Investment Trusts,Semiconductors,Yuan Renminbi
+LP001552,Male,Yes,0,Graduate,No,255,360,1,Semiurban,Y,640,Major Pharmaceuticals,Peso,Quigley-Turcotte,561,Major Banks,Major Pharmaceuticals,Peso
+LP001560,Male,Yes,0,Not Graduate,No,98,360,1,Semiurban,Y,690,Computer Software: Prepackaged Software,Yuan Renminbi,"Romaguera, Frami and Feest",833,n/a,Computer Software: Prepackaged Software,Yuan Renminbi
+LP001562,Male,Yes,0,Graduate,No,275,360,1,Urban,N,740,Real Estate,Dollar,Langosh-Donnelly,399,"Computer Software: Programming, Data Processing",Real Estate,Dollar
+LP001565,Male,Yes,1,Graduate,No,121,360,0,Semiurban,N,790,Real Estate Investment Trusts,Zloty,"Bahringer, Sawayn and Torp",628,Business Services,Real Estate Investment Trusts,Zloty
+LP001570,Male,Yes,2,Graduate,No,158,360,1,Rural,Y,830,Industrial Machinery/Components,Yuan Renminbi,"West, Willms and Price",553,Telecommunications Equipment,Industrial Machinery/Components,Yuan Renminbi
+LP001572,Male,Yes,0,Graduate,No,75,180,1,Urban,Y,870,n/a,Zloty,Skiles Group,460,Advertising,n/a,Zloty
+LP001574,Male,Yes,0,Graduate,No,182,,1,Rural,Y,500,Major Banks,Manat,"Fahey, Gleichner and Olson",856,Biotechnology: Biological Products (No Diagnostic Substances),Major Banks,Manat
+LP001577,Female,Yes,0,Graduate,No,112,360,1,Rural,N,550,n/a,Tala,"Smith, Zieme and Stokes",812,Major Pharmaceuticals,n/a,Tala
+LP001578,Male,Yes,0,Graduate,No,129,360,1,Rural,Y,600,Oil & Gas Production,Ruble,Hammes Inc,771,Finance: Consumer Services,Oil & Gas Production,Ruble
+LP001579,Male,No,0,Graduate,No,63,480,0,Semiurban,N,650,n/a,Ouguiya,Luettgen-Pollich,775,n/a,n/a,Ouguiya
+LP001580,Male,Yes,2,Graduate,No,200,360,1,Semiurban,Y,700,Transportation Services,Afghani,Muller Group,661,Savings Institutions,Transportation Services,Afghani
+LP001581,Male,Yes,0,Not Graduate,,95,360,1,Rural,Y,750,Business Services,Yuan Renminbi,"Torphy, Bergstrom and Skiles",395,n/a,Business Services,Yuan Renminbi
+LP001585,,Yes,3+,Graduate,No,700,300,1,Urban,Y,800,n/a,Krone,"Mann, Kuphal and Johns",305,RETAIL: Building Materials,n/a,Krone
+LP001586,Male,Yes,3+,Not Graduate,No,81,180,1,Rural,N,850,Diversified Commercial Services,Afghani,Kessler Inc,808,n/a,Diversified Commercial Services,Afghani
+LP001594,Male,Yes,0,Graduate,No,187,360,1,Semiurban,Y,780,Major Banks,Euro,Hilll-Luettgen,622,Major Chemicals,Major Banks,Euro
+LP001603,Male,Yes,0,Not Graduate,Yes,87,360,1,Semiurban,N,620,Real Estate Investment Trusts,Krona,Bernhard Inc,909,n/a,Real Estate Investment Trusts,Krona
+LP001606,Male,Yes,0,Graduate,No,116,360,1,Rural,Y,580,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Dollar,Bradtke-Mills,665,Radio And Television Broadcasting And Communications Equipment,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Dollar
+LP001608,Male,Yes,2,Graduate,No,101,360,1,Rural,Y,530,RETAIL: Building Materials,Lek,Klein-Nienow,694,Precious Metals,RETAIL: Building Materials,Lek
+LP001610,Male,Yes,3+,Graduate,No,495,360,0,Semiurban,N,651,Electric Utilities: Central,Peso,Zboncak LLC,944,Major Banks,Electric Utilities: Central,Peso
+LP001616,Male,Yes,1,Graduate,No,116,360,1,Semiurban,Y,701,Computer Manufacturing,Dollar,West-Johnson,614,Apparel,Computer Manufacturing,Dollar
+LP001630,Male,No,0,Not Graduate,No,102,480,0,Urban,N,350,Office Equipment/Supplies/Services,Euro,Langosh LLC,706,Semiconductors,Office Equipment/Supplies/Services,Euro
+LP001633,Male,Yes,1,Graduate,No,180,360,0,Urban,N,400,n/a,Shilling,Brekke LLC,768,Major Pharmaceuticals,n/a,Shilling
+LP001634,Male,No,0,Graduate,No,67,360,,Rural,N,450,Telecommunications Equipment,Dollar,"Gorczany, Bradtke and Schmitt",701,n/a,Telecommunications Equipment,Dollar
+LP001636,Male,Yes,0,Graduate,No,73,180,1,Semiurban,Y,500,Business Services,Real,Weimann and Sons,614,n/a,Business Services,Real
+LP001637,Male,Yes,1,Graduate,No,260,360,1,Semiurban,N,550,Major Banks,Ruble,"O'Keefe, Johnston and Ankunding",794,Major Pharmaceuticals,Major Banks,Ruble
+LP001639,Female,Yes,0,Graduate,No,108,360,1,Semiurban,Y,450,Construction/Ag Equipment/Trucks,Yuan Renminbi,Collier LLC,949,Railroads,Construction/Ag Equipment/Trucks,Yuan Renminbi
+LP001640,Male,Yes,0,Graduate,Yes,120,360,1,Semiurban,Y,500,n/a,Lev,Johnson Inc,507,Telecommunications Equipment,n/a,Lev
+LP001641,Male,Yes,1,Graduate,Yes,66,300,0,Rural,N,550,Major Chemicals,Yen,"Hansen, Spinka and Blanda",897,Oilfield Services/Equipment,Major Chemicals,Yen
+LP001643,Male,Yes,0,Graduate,No,58,360,,Rural,Y,600,n/a,Tugrik,Reilly Group,619,Hotels/Resorts,n/a,Tugrik
+LP001644,,Yes,0,Graduate,Yes,168,360,1,Rural,Y,650,n/a,Euro,Gleichner Group,527,n/a,n/a,Euro
+LP001647,Male,Yes,0,Graduate,No,188,180,1,Rural,Y,700,Diversified Commercial Services,Real,"Kemmer, Will and Bins",718,Packaged Foods,Diversified Commercial Services,Real
+LP001653,Male,No,0,Not Graduate,No,48,360,1,Rural,Y,750,n/a,Rupiah,"Kihn, Jacobson and Shanahan",447,Banks,n/a,Rupiah
+LP001656,Male,No,0,Graduate,No,164,360,1,Semiurban,N,800,n/a,Euro,"O'Reilly, Doyle and Witting",800,Water Supply,n/a,Euro
+LP001657,Male,Yes,0,Not Graduate,No,160,360,1,Urban,N,850,Medical/Nursing Services,Rupiah,Casper Group,382,Homebuilding,Medical/Nursing Services,Rupiah
+LP001658,Male,No,0,Graduate,No,76,360,1,Semiurban,Y,780,n/a,Euro,"Wehner, Mann and Green",725,Major Pharmaceuticals,n/a,Euro
+LP001664,Male,No,0,Graduate,No,120,360,1,Rural,Y,620,Semiconductors,Hryvnia,Bernhard LLC,889,n/a,Semiconductors,Hryvnia
+LP001665,Male,Yes,1,Graduate,No,170,360,1,Semiurban,N,580,Computer Manufacturing,Yuan Renminbi,Dietrich Inc,369,Engineering & Construction,Computer Manufacturing,Yuan Renminbi
+LP001666,Male,No,0,Graduate,No,187,360,1,Rural,Y,530,Oil & Gas Production,Rupiah,Hagenes-Koch,757,n/a,Oil & Gas Production,Rupiah
+LP001669,Female,No,0,Not Graduate,No,120,,1,Urban,Y,570,Major Pharmaceuticals,Rupiah,Ritchie-Hilll,565,Major Pharmaceuticals,Major Pharmaceuticals,Rupiah
+LP001671,Female,Yes,0,Graduate,No,113,360,,Semiurban,Y,640,Major Banks,Kip,"Rowe, Monahan and Jast",811,n/a,Major Banks,Kip
+LP001673,Male,No,0,Graduate,Yes,83,360,1,Urban,N,690,EDP Services,Naira,Nikolaus Inc,709,Major Banks,EDP Services,Naira
+LP001674,Male,Yes,1,Not Graduate,No,90,360,1,Semiurban,Y,740,n/a,Afghani,"Lehner, Russel and Steuber",915,Building Materials,n/a,Afghani
+LP001677,Male,No,2,Graduate,No,166,360,0,Semiurban,Y,790,n/a,Yuan Renminbi,Schumm Group,548,Real Estate Investment Trusts,n/a,Yuan Renminbi
+LP001682,Male,Yes,3+,Not Graduate,No,,180,1,Urban,N,830,Computer Communications Equipment,Dollar,Upton LLC,378,Precious Metals,Computer Communications Equipment,Dollar
+LP001688,Male,Yes,1,Not Graduate,No,135,360,1,Urban,Y,870,n/a,Yuan Renminbi,Larson-Jast,371,Computer Software: Prepackaged Software,n/a,Yuan Renminbi
+LP001691,Male,Yes,2,Not Graduate,No,124,360,1,Semiurban,Y,300,Home Furnishings,Franc,Friesen Inc,684,Marine Transportation,Home Furnishings,Franc
+LP001692,Female,No,0,Not Graduate,No,120,360,1,Semiurban,Y,350,Industrial Machinery/Components,Yuan Renminbi,Waelchi-Champlin,797,Real Estate Investment Trusts,Industrial Machinery/Components,Yuan Renminbi
+LP001693,Female,No,0,Graduate,No,80,360,1,Urban,Y,400,Property-Casualty Insurers,Rupee,Bernier and Sons,781,EDP Services,Property-Casualty Insurers,Rupee
+LP001698,Male,No,0,Not Graduate,No,55,360,1,Rural,Y,450,Hotels/Resorts,Dollar,Feest Inc,507,Farming/Seeds/Milling,Hotels/Resorts,Dollar
+LP001699,Male,No,0,Graduate,No,59,360,1,Urban,Y,500,Precious Metals,Yuan Renminbi,Raynor and Sons,318,n/a,Precious Metals,Yuan Renminbi
+LP001702,Male,No,0,Graduate,No,127,360,1,Semiurban,N,550,n/a,Ringgit,Fahey-Hodkiewicz,376,Real Estate Investment Trusts,n/a,Ringgit
+LP001708,Female,No,0,Graduate,No,214,360,1,Semiurban,N,600,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi,Huels and Sons,418,"Computer Software: Programming, Data Processing",Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi
+LP001711,Male,Yes,3+,Graduate,No,128,360,0,Semiurban,N,650,Paints/Coatings,Euro,"Gerlach, Murazik and Howell",570,Diversified Commercial Services,Paints/Coatings,Euro
+LP001713,Male,Yes,1,Graduate,Yes,240,360,1,Urban,Y,700,Agricultural Chemicals,Rand,Mills Group,894,Telecommunications Equipment,Agricultural Chemicals,Rand
+LP001715,Male,Yes,3+,Not Graduate,Yes,130,360,1,Rural,Y,750,n/a,Sol,Zulauf and Sons,710,Plastic Products,n/a,Sol
+LP001716,Male,Yes,0,Graduate,No,137,360,1,Urban,Y,800,n/a,Yen,Hansen-Swift,365,Trucking Freight/Courier Services,n/a,Yen
+LP001720,Male,Yes,3+,Not Graduate,No,100,360,1,Semiurban,Y,850,Hotels/Resorts,Tenge,Ziemann Inc,479,Semiconductors,Hotels/Resorts,Tenge
+LP001722,Male,Yes,0,Graduate,No,135,360,1,Rural,N,780,Major Banks,Peso,"Cremin, Weber and Rempel",446,Recreational Products/Toys,Major Banks,Peso
+LP001726,Male,Yes,0,Graduate,No,131,360,1,Semiurban,Y,620,EDP Services,Ruble,"Frami, Rosenbaum and Lehner",429,n/a,EDP Services,Ruble
+LP001732,Male,Yes,2,Graduate,,72,360,0,Semiurban,N,580,Industrial Machinery/Components,Rupiah,Macejkovic-Keeling,580,n/a,Industrial Machinery/Components,Rupiah
+LP001734,Female,Yes,2,Graduate,No,127,360,,Semiurban,Y,530,Major Pharmaceuticals,Dirham,"Schowalter, Towne and Armstrong",726,Computer Software: Prepackaged Software,Major Pharmaceuticals,Dirham
+LP001736,Male,Yes,0,Graduate,No,60,360,0,Urban,N,570,n/a,Franc,"Kub, Crooks and Koss",917,Engineering & Construction,n/a,Franc
+LP001743,Male,Yes,2,Graduate,No,116,360,1,Semiurban,Y,640,Packaged Foods,Peso,Heathcote LLC,525,Telecommunications Equipment,Packaged Foods,Peso
+LP001744,Male,No,0,Graduate,No,144,360,1,Semiurban,Y,690,Automotive Aftermarket,Euro,Leffler Group,910,n/a,Automotive Aftermarket,Euro
+LP001749,Male,Yes,0,Graduate,No,175,,1,Semiurban,Y,740,Office Equipment/Supplies/Services,Rupiah,"Wehner, Watsica and Kovacek",829,Ophthalmic Goods,Office Equipment/Supplies/Services,Rupiah
+LP001750,Male,Yes,0,Graduate,No,128,360,1,Semiurban,Y,790,Major Banks,Yuan Renminbi,Jacobi Inc,821,Telecommunications Equipment,Major Banks,Yuan Renminbi
+LP001751,Male,Yes,0,Graduate,No,170,360,1,Rural,N,830,Auto Manufacturing,Euro,"Rosenbaum, Monahan and Gislason",433,Catalog/Specialty Distribution,Auto Manufacturing,Euro
+LP001754,Male,Yes,,Not Graduate,Yes,138,360,1,Urban,N,870,n/a,Lempira,Swift and Sons,847,n/a,n/a,Lempira
+LP001758,Male,Yes,2,Graduate,No,210,360,1,Semiurban,Y,301,Industrial Machinery/Components,Peso,Muller Group,331,Food Chains,Industrial Machinery/Components,Peso
+LP001760,Male,,,Graduate,No,158,480,1,Semiurban,Y,351,Transportation Services,Euro,"Wyman, Stanton and Denesik",407,Biotechnology: Biological Products (No Diagnostic Substances),Transportation Services,Euro
+LP001761,Male,No,0,Graduate,Yes,200,360,1,Rural,Y,401,Advertising,Zloty,Dicki Inc,808,Property-Casualty Insurers,Advertising,Zloty
+LP001765,Male,Yes,1,Graduate,No,104,360,1,Semiurban,Y,451,Industrial Machinery/Components,Real,Dickinson-Nader,905,Environmental Services,Industrial Machinery/Components,Real
+LP001768,Male,Yes,0,Graduate,,42,180,1,Rural,Y,501,Biotechnology: Biological Products (No Diagnostic Substances),Franc,"Gislason, Huel and Dietrich",679,Natural Gas Distribution,Biotechnology: Biological Products (No Diagnostic Substances),Franc
+LP001770,Male,No,0,Not Graduate,No,120,,1,Rural,Y,551,Major Pharmaceuticals,Peso,Kshlerin Group,747,Real Estate Investment Trusts,Major Pharmaceuticals,Peso
+LP001776,Female,No,0,Graduate,No,280,360,1,Semiurban,Y,601,n/a,Ruble,Hand-Harber,840,n/a,n/a,Ruble
+LP001778,Male,Yes,1,Graduate,No,140,360,1,Semiurban,Y,651,n/a,Rupiah,Harvey and Sons,521,Electrical Products,n/a,Rupiah
+LP001784,Male,Yes,1,Graduate,No,170,360,1,Rural,Y,701,Real Estate Investment Trusts,Dollar,Rempel-Hermann,740,Real Estate Investment Trusts,Real Estate Investment Trusts,Dollar
+LP001786,Male,Yes,0,Graduate,,255,360,,Urban,N,751,n/a,Peso,Hoppe-Runolfsdottir,531,Television Services,n/a,Peso
+LP001788,Female,No,0,Graduate,Yes,122,360,,Urban,Y,801,Investment Bankers/Brokers/Service,Rupiah,"Mueller, Hilll and Rohan",665,Major Pharmaceuticals,Investment Bankers/Brokers/Service,Rupiah
+LP001790,Female,No,1,Graduate,No,112,360,1,Rural,Y,851,n/a,Yuan Renminbi,"Botsford, Gleichner and Conn",794,Biotechnology: Laboratory Analytical Instruments,n/a,Yuan Renminbi
+LP001792,Male,Yes,1,Graduate,No,96,360,1,Semiurban,Y,781,Transportation Services,Rupiah,Okuneva and Sons,732,Real Estate Investment Trusts,Transportation Services,Rupiah
+LP001798,Male,Yes,2,Graduate,No,120,360,1,Rural,Y,621,n/a,Yen,"Price, Ferry and Mayert",450,Major Banks,n/a,Yen
+LP001800,Male,Yes,1,Not Graduate,No,140,180,1,Urban,N,581,Major Banks,Euro,Hodkiewicz-Schaefer,807,n/a,Major Banks,Euro
+LP001806,Male,No,0,Graduate,No,155,60,1,Urban,Y,570,n/a,Sol,Steuber-Botsford,616,"Computer Software: Programming, Data Processing",n/a,Sol
+LP001807,Male,Yes,2,Graduate,Yes,108,360,1,Rural,Y,640,Major Banks,Peso,Rohan-Stark,609,Property-Casualty Insurers,Major Banks,Peso
+LP001811,Male,Yes,0,Not Graduate,No,123,360,1,Semiurban,Y,690,Real Estate Investment Trusts,Yuan Renminbi,"Sauer, Stanton and Rempel",339,EDP Services,Real Estate Investment Trusts,Yuan Renminbi
+LP001813,Male,No,0,Graduate,Yes,120,180,1,Urban,N,740,n/a,Rupiah,Murphy LLC,585,Medical/Dental Instruments,n/a,Rupiah
+LP001814,Male,Yes,2,Graduate,No,112,360,1,Urban,Y,790,Major Pharmaceuticals,Real,Simonis Group,595,Major Banks,Major Pharmaceuticals,Real
+LP001819,Male,Yes,1,Not Graduate,No,137,180,1,Urban,Y,830,Movies/Entertainment,Yuan Renminbi,"Erdman, Quitzon and Spencer",321,n/a,Movies/Entertainment,Yuan Renminbi
+LP001824,Male,Yes,1,Graduate,No,123,480,1,Semiurban,Y,870,Investment Bankers/Brokers/Service,Real,Hoeger LLC,622,Newspapers/Magazines,Investment Bankers/Brokers/Service,Real
+LP001825,Male,Yes,0,Graduate,No,90,360,1,Urban,Y,301,n/a,Dollar,"Dach, Brekke and Lakin",556,Oil & Gas Production,n/a,Dollar
+LP001835,Male,Yes,0,Not Graduate,No,201,360,0,Semiurban,N,351,n/a,Koruna,Rolfson-Mills,490,Semiconductors,n/a,Koruna
+LP001836,Female,No,2,Graduate,No,138,360,1,Urban,N,401,Computer Software: Prepackaged Software,Yen,Gutkowski-Pacocha,503,Package Goods/Cosmetics,Computer Software: Prepackaged Software,Yen
+LP001841,Male,No,0,Not Graduate,Yes,104,360,1,Rural,Y,451,EDP Services,Real,Lehner-Auer,882,Military/Government/Technical,EDP Services,Real
+LP001843,Male,Yes,1,Not Graduate,No,279,180,1,Semiurban,Y,501,Major Banks,Real,Ebert-Brown,422,Department/Specialty Retail Stores,Major Banks,Real
+LP001844,Male,No,0,Graduate,Yes,192,360,0,Urban,N,551,n/a,Baht,"Beer, Kovacek and Rutherford",300,Marine Transportation,n/a,Baht
+LP001846,Female,No,3+,Graduate,No,255,360,1,Rural,Y,350,n/a,Real,"Franecki, Williamson and Adams",825,Real Estate,n/a,Real
+LP001849,Male,No,0,Not Graduate,No,115,360,0,Rural,N,400,Precious Metals,Peso,Weissnat LLC,757,Auto Parts:O.E.M.,Precious Metals,Peso
+LP001854,Male,Yes,3+,Graduate,No,94,360,1,Urban,N,450,Real Estate,Euro,"Wuckert, Hettinger and Keeling",577,Broadcasting,Real Estate,Euro
+LP001859,Male,Yes,0,Graduate,No,304,360,1,Rural,N,500,Hospital/Nursing Management,Ruble,Boyle and Sons,365,n/a,Hospital/Nursing Management,Ruble
+LP001864,Male,Yes,3+,Not Graduate,No,128,360,,Semiurban,N,550,Oil/Gas Transmission,Yuan Renminbi,Hoeger LLC,459,Clothing/Shoe/Accessory Stores,Oil/Gas Transmission,Yuan Renminbi
+LP001865,Male,Yes,1,Graduate,No,330,360,,Urban,Y,600,RETAIL: Building Materials,Krona,"Crona, Morar and Gerhold",580,Property-Casualty Insurers,RETAIL: Building Materials,Krona
+LP001868,Male,No,0,Graduate,No,134,360,1,Semiurban,Y,351,n/a,Yuan Renminbi,Feest and Sons,587,n/a,n/a,Yuan Renminbi
+LP001870,Female,No,1,Graduate,No,155,36,1,Semiurban,N,401,n/a,Rupiah,"Davis, Altenwerth and Dicki",519,Investment Managers,n/a,Rupiah
+LP001871,Female,No,0,Graduate,No,120,360,1,Rural,Y,451,Oil & Gas Production,Dollar,Jakubowski Inc,551,Major Pharmaceuticals,Oil & Gas Production,Dollar
+LP001872,Male,No,0,Graduate,Yes,128,360,1,Semiurban,Y,501,Major Banks,Euro,"Yost, Luettgen and D'Amore",793,Telecommunications Equipment,Major Banks,Euro
+LP001875,Male,No,0,Graduate,No,151,360,1,Rural,Y,551,Major Pharmaceuticals,Rupiah,Anderson-Pollich,358,Semiconductors,Major Pharmaceuticals,Rupiah
+LP001877,Male,Yes,2,Graduate,No,150,360,1,Semiurban,Y,601,Natural Gas Distribution,Peso,Hane-Sauer,431,Medical/Dental Instruments,Natural Gas Distribution,Peso
+LP001882,Male,Yes,3+,Graduate,No,160,360,0,Urban,Y,651,n/a,Dollar,Dare-Rempel,489,n/a,n/a,Dollar
+LP001883,Female,No,0,Graduate,,135,360,1,Rural,N,701,Hospital/Nursing Management,Kip,"Hudson, Friesen and Feeney",321,Semiconductors,Hospital/Nursing Management,Kip
+LP001884,Female,No,1,Graduate,No,90,360,1,Urban,Y,751,Investment Bankers/Brokers/Service,Yuan Renminbi,Torp-Wunsch,573,Diversified Commercial Services,Investment Bankers/Brokers/Service,Yuan Renminbi
+LP001888,Female,No,0,Graduate,No,30,360,1,Urban,Y,801,Industrial Machinery/Components,Balboa,Bechtelar and Sons,628,Specialty Chemicals,Industrial Machinery/Components,Balboa
+LP001891,Male,Yes,0,Graduate,No,136,360,1,Urban,Y,301,Major Pharmaceuticals,Zloty,Thompson Group,905,Property-Casualty Insurers,Major Pharmaceuticals,Zloty
+LP001892,Male,No,0,Graduate,No,126,360,1,Rural,Y,351,Major Chemicals,Shilling,DuBuque Group,769,Hotels/Resorts,Major Chemicals,Shilling
+LP001894,Male,Yes,0,Graduate,No,150,360,1,Semiurban,Y,401,n/a,Peso,"Collins, Wolf and McClure",950,n/a,n/a,Peso
+LP001896,Male,Yes,2,Graduate,No,90,360,1,Semiurban,Y,451,Medical Specialities,Dollar,Prosacco-Marvin,846,n/a,Medical Specialities,Dollar
+LP001900,Male,Yes,1,Graduate,No,115,360,1,Semiurban,Y,501,Computer Communications Equipment,Rupee,Wolf and Sons,766,Advertising,Computer Communications Equipment,Rupee
+LP001903,Male,Yes,0,Graduate,No,207,360,1,Semiurban,Y,551,Other Pharmaceuticals,Peso,"Daniel, Stoltenberg and Rodriguez",823,n/a,Other Pharmaceuticals,Peso
+LP001904,Male,Yes,0,Graduate,No,80,360,1,Urban,Y,350,n/a,Baht,West and Sons,602,RETAIL: Building Materials,n/a,Baht
+LP001907,Male,Yes,0,Graduate,No,436,360,1,Semiurban,Y,400,Major Chemicals,Zloty,White-Graham,580,Industrial Machinery/Components,Major Chemicals,Zloty
+LP001908,Female,Yes,0,Not Graduate,No,124,360,,Rural,Y,450,Natural Gas Distribution,Real,VonRueden-Larkin,909,Savings Institutions,Natural Gas Distribution,Real
+LP001910,Male,No,1,Not Graduate,Yes,158,360,0,Urban,N,500,Computer Communications Equipment,Peso,Flatley-Cummerata,639,Fluid Controls,Computer Communications Equipment,Peso
+LP001914,Male,Yes,0,Graduate,No,112,360,1,Semiurban,Y,550,Biotechnology: Commercial Physical & Biological Resarch,Naira,Feeney Inc,737,Fluid Controls,Biotechnology: Commercial Physical & Biological Resarch,Naira
+LP001915,Male,Yes,2,Graduate,No,78,180,1,Urban,Y,600,Oil & Gas Production,Peso,Bogisich-Zulauf,736,EDP Services,Oil & Gas Production,Peso
+LP001917,Female,No,0,Graduate,No,54,360,1,Urban,Y,351,Major Banks,Shekel,Ward-Lockman,634,n/a,Major Banks,Shekel
+LP001922,Male,Yes,0,Graduate,No,,360,1,Rural,N,401,Packaged Foods,Dollar,Abbott LLC,768,n/a,Packaged Foods,Dollar
+LP001924,Male,No,0,Graduate,No,89,360,1,Rural,Y,451,Investment Managers,Marka,"Hamill, Trantow and Schimmel",589,Property-Casualty Insurers,Investment Managers,Marka
+LP001925,Female,No,0,Graduate,Yes,99,300,1,Semiurban,N,501,Accident &Health Insurance,Real,"Lesch, Mayer and Turner",366,Major Pharmaceuticals,Accident &Health Insurance,Real
+LP001926,Male,Yes,0,Graduate,No,120,360,1,Rural,Y,551,Hotels/Resorts,Dong,"Rempel, Kuvalis and Bergstrom",357,n/a,Hotels/Resorts,Dong
+LP001931,Female,No,0,Graduate,No,115,360,1,Semiurban,Y,601,Computer Software: Prepackaged Software,Yuan Renminbi,Littel-Quitzon,482,Hotels/Resorts,Computer Software: Prepackaged Software,Yuan Renminbi
+LP001935,Male,No,0,Graduate,No,187,360,1,Rural,Y,651,n/a,Yuan Renminbi,Bernhard-O'Keefe,505,Apparel,n/a,Yuan Renminbi
+LP001936,Male,Yes,0,Graduate,No,139,360,1,Rural,Y,701,Oil & Gas Production,Yuan Renminbi,"Hagenes, Mante and Yost",684,Semiconductors,Oil & Gas Production,Yuan Renminbi
+LP001938,Male,Yes,2,Graduate,No,127,360,0,Semiurban,N,350,n/a,Dollar,Keebler Inc,610,Telecommunications Equipment,n/a,Dollar
+LP001940,Male,Yes,2,Graduate,No,134,360,1,Urban,Y,400,Oil & Gas Production,Franc,"Lubowitz, Lang and Hickle",890,n/a,Oil & Gas Production,Franc
+LP001945,Female,No,,Graduate,No,143,480,0,Urban,N,450,Major Pharmaceuticals,Peso,"Beatty, Schneider and Bauch",825,Computer Software: Prepackaged Software,Major Pharmaceuticals,Peso
+LP001947,Male,Yes,0,Graduate,No,172,360,1,Semiurban,Y,500,n/a,Dirham,Prosacco LLC,450,Industrial Machinery/Components,n/a,Dirham
+LP001949,Male,Yes,3+,Graduate,,110,360,1,Urban,Y,550,n/a,Franc,Hackett-Wisozk,303,Forest Products,n/a,Franc
+LP001953,Male,Yes,1,Graduate,No,200,360,1,Semiurban,Y,600,Biotechnology: Commercial Physical & Biological Resarch,Taka,Berge Inc,889,Containers/Packaging,Biotechnology: Commercial Physical & Biological Resarch,Taka
+LP001954,Female,Yes,1,Graduate,No,135,360,1,Urban,Y,650,n/a,Rupiah,Weissnat Group,489,Industrial Specialties,n/a,Rupiah
+LP001955,Female,No,0,Graduate,No,151,480,1,Rural,N,700,n/a,Ruble,"Emard, Hilpert and Altenwerth",812,"Computer Software: Programming, Data Processing",n/a,Ruble
+LP001963,Male,Yes,1,Graduate,No,113,360,1,Urban,N,750,Packaged Foods,Yuan Renminbi,"Block, Medhurst and Durgan",525,Meat/Poultry/Fish,Packaged Foods,Yuan Renminbi
+LP001964,Male,Yes,0,Not Graduate,No,93,360,0,Urban,N,800,Computer Software: Prepackaged Software,Hryvnia,"Baumbach, Beer and Carter",491,Forest Products,Computer Software: Prepackaged Software,Hryvnia
+LP001972,Male,Yes,,Not Graduate,No,105,360,1,Semiurban,Y,850,Business Services,Lev,"Blanda, Hane and Schiller",409,Major Banks,Business Services,Lev
+LP001974,Female,No,0,Graduate,No,132,360,1,Rural,Y,780,Major Banks,Koruna,"Jast, Hermann and Nader",477,n/a,Major Banks,Koruna
+LP001977,Male,Yes,1,Graduate,No,96,360,1,Urban,Y,620,Real Estate Investment Trusts,Ruble,"Botsford, Kunze and Wyman",603,n/a,Real Estate Investment Trusts,Ruble
+LP001978,Male,No,0,Graduate,No,140,360,1,Rural,Y,580,Major Chemicals,Ruble,DuBuque-Barton,703,Major Pharmaceuticals,Major Chemicals,Ruble
+LP001990,Male,No,0,Not Graduate,No,,360,1,Urban,N,530,Radio And Television Broadcasting And Communications Equipment,Yuan Renminbi,"Terry, Cormier and Ondricka",890,Electrical Products,Radio And Television Broadcasting And Communications Equipment,Yuan Renminbi
+LP001993,Female,No,0,Graduate,No,135,360,1,Rural,Y,570,Electronic Components,Franc,Walker-Abernathy,610,Containers/Packaging,Electronic Components,Franc
+LP001994,Female,No,0,Graduate,No,104,360,0,Urban,N,640,Clothing/Shoe/Accessory Stores,Yuan Renminbi,Sporer Group,458,Building Materials,Clothing/Shoe/Accessory Stores,Yuan Renminbi
+LP001996,Male,No,0,Graduate,No,480,360,1,Rural,N,690,Major Pharmaceuticals,Euro,Kuvalis Inc,363,Natural Gas Distribution,Major Pharmaceuticals,Euro
+LP001998,Male,Yes,2,Not Graduate,No,185,360,,Rural,Y,740,n/a,Tugrik,"Veum, Kunze and Wolf",561,Major Pharmaceuticals,n/a,Tugrik
+LP002002,Female,No,0,Graduate,No,84,360,1,Semiurban,Y,790,n/a,Franc,"Nader, Macejkovic and Pollich",673,n/a,n/a,Franc
+LP002004,Male,No,0,Not Graduate,No,111,360,1,Semiurban,Y,830,Industrial Specialties,Naira,Moen-Feeney,924,Major Pharmaceuticals,Industrial Specialties,Naira
+LP002006,Female,No,0,Graduate,No,56,360,1,Rural,Y,870,Real Estate,Peso,Schimmel-Gutmann,606,Industrial Specialties,Real Estate,Peso
+LP002008,Male,Yes,2,Graduate,Yes,144,84,,Rural,Y,500,Computer Software: Prepackaged Software,Peso,Wolff and Sons,612,Textiles,Computer Software: Prepackaged Software,Peso
+LP002024,,Yes,0,Graduate,No,159,360,1,Rural,N,550,Metal Fabrications,Zloty,Swift-Berge,893,Broadcasting,Metal Fabrications,Zloty
+LP002031,Male,Yes,1,Not Graduate,No,111,180,1,Urban,Y,600,Real Estate,Rupiah,"Trantow, Orn and Yost",862,Computer peripheral equipment,Real Estate,Rupiah
+LP002035,Male,Yes,2,Graduate,No,120,360,1,Semiurban,Y,650,Major Pharmaceuticals,Rupiah,"Kling, McDermott and Langosh",898,Investment Managers,Major Pharmaceuticals,Rupiah
+LP002036,Male,Yes,0,Graduate,No,88,360,,Urban,Y,700,Steel/Iron Ore,Rial,Haag Inc,396,Homebuilding,Steel/Iron Ore,Rial
+LP002043,Female,No,1,Graduate,No,112,360,,Semiurban,Y,750,Property-Casualty Insurers,Yuan Renminbi,Farrell LLC,850,Metal Fabrications,Property-Casualty Insurers,Yuan Renminbi
+LP002050,Male,Yes,1,Graduate,Yes,155,360,1,Rural,N,800,Biotechnology: Biological Products (No Diagnostic Substances),Ruble,O'Kon LLC,602,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Ruble
+LP002051,Male,Yes,0,Graduate,No,115,360,1,Semiurban,Y,850,n/a,Peso,Casper-Lindgren,301,Apparel,n/a,Peso
+LP002053,Male,Yes,3+,Graduate,No,124,360,1,Semiurban,Y,780,n/a,Lira,O'Connell-Padberg,745,Forest Products,n/a,Lira
+LP002054,Male,Yes,2,Not Graduate,No,,360,1,Rural,Y,620,Military/Government/Technical,Yuan Renminbi,Heathcote LLC,358,Consumer Electronics/Appliances,Military/Government/Technical,Yuan Renminbi
+LP002055,Female,No,0,Graduate,No,132,360,,Rural,Y,580,n/a,Yuan Renminbi,Kihn-Kuvalis,551,Restaurants,n/a,Yuan Renminbi
+LP002065,Male,Yes,3+,Graduate,No,300,360,1,Rural,Y,530,Engineering & Construction,Ouguiya,Bode Group,566,Biotechnology: Biological Products (No Diagnostic Substances),Engineering & Construction,Ouguiya
+LP002067,Male,Yes,1,Graduate,Yes,376,360,0,Rural,N,570,Major Pharmaceuticals,Bolivar,Witting-Koelpin,683,Books,Major Pharmaceuticals,Bolivar
+LP002068,Male,No,0,Graduate,No,130,360,0,Rural,Y,640,EDP Services,Dinar,Wintheiser-Wisoky,470,Major Banks,EDP Services,Dinar
+LP002082,Male,Yes,0,Graduate,Yes,184,360,1,Semiurban,Y,690,Medical/Dental Instruments,Koruna,"Gerhold, Ward and Macejkovic",335,n/a,Medical/Dental Instruments,Koruna
+LP002086,Female,Yes,0,Graduate,No,110,360,1,Urban,N,740,n/a,Guarani,Kunde Inc,335,Semiconductors,n/a,Guarani
+LP002087,Female,No,0,Graduate,No,67,360,1,Urban,Y,790,Apparel,Lek,"Beahan, Zieme and Weber",459,Business Services,Apparel,Lek
+LP002097,Male,No,1,Graduate,No,117,360,1,Urban,Y,830,Industrial Machinery/Components,Real,Weber-Schinner,479,Business Services,Industrial Machinery/Components,Real
+LP002098,Male,No,0,Graduate,No,98,360,1,Semiurban,Y,870,Real Estate Investment Trusts,Yuan Renminbi,Mayer Group,614,n/a,Real Estate Investment Trusts,Yuan Renminbi
+LP002100,Male,No,,Graduate,No,71,360,1,Urban,Y,300,n/a,Euro,"Mayer, Kovacek and Waelchi",443,Major Pharmaceuticals,n/a,Euro
+LP002101,Male,Yes,0,Graduate,,490,180,1,Urban,Y,350,Major Banks,Rupiah,Ruecker-Nienow,522,Industrial Machinery/Components,Major Banks,Rupiah
+LP002103,,Yes,1,Graduate,Yes,182,180,1,Urban,Y,400,Property-Casualty Insurers,Dollar,Yundt-Legros,458,Textiles,Property-Casualty Insurers,Dollar
+LP002106,Male,Yes,,Graduate,Yes,70,,1,Semiurban,Y,450,Investment Bankers/Brokers/Service,Rial,"Jacobson, Strosin and Bruen",319,Major Pharmaceuticals,Investment Bankers/Brokers/Service,Rial
+LP002110,Male,Yes,1,Graduate,,160,360,1,Rural,Y,500,Semiconductors,Euro,Huels-Walter,300,n/a,Semiconductors,Euro
+LP002112,Male,Yes,2,Graduate,Yes,176,360,1,Rural,Y,550,Computer Software: Prepackaged Software,Franc,"Dibbert, Rowe and Glover",588,n/a,Computer Software: Prepackaged Software,Franc
+LP002113,Female,No,3+,Not Graduate,No,,360,0,Urban,N,600,Oil & Gas Production,Euro,Simonis Group,465,Restaurants,Oil & Gas Production,Euro
+LP002114,Female,No,0,Graduate,No,71,360,1,Semiurban,Y,650,Biotechnology: Commercial Physical & Biological Resarch,Rand,Huel-Hyatt,744,Major Pharmaceuticals,Biotechnology: Commercial Physical & Biological Resarch,Rand
+LP002115,Male,Yes,3+,Not Graduate,No,173,360,1,Rural,N,700,Steel/Iron Ore,Euro,Tillman-Dare,305,Business Services,Steel/Iron Ore,Euro
+LP002116,Female,No,0,Graduate,No,46,360,1,Rural,N,750,Real Estate Investment Trusts,Dollar,"Lueilwitz, Heathcote and Dickens",419,n/a,Real Estate Investment Trusts,Dollar
+LP002119,Male,Yes,1,Not Graduate,No,158,360,1,Urban,Y,800,n/a,Peso,"Trantow, Kovacek and Lehner",769,EDP Services,n/a,Peso
+LP002126,Male,Yes,3+,Not Graduate,No,74,360,1,Semiurban,Y,640,Major Banks,Ruble,"Balistreri, Halvorson and Kilback",401,n/a,Major Banks,Ruble
+LP002128,Male,Yes,2,Graduate,,125,360,1,Rural,Y,690,n/a,Yuan Renminbi,Hermann and Sons,804,Metal Fabrications,n/a,Yuan Renminbi
+LP002129,Male,Yes,0,Graduate,No,160,360,1,Semiurban,Y,740,n/a,Yuan Renminbi,Ferry Inc,438,Industrial Machinery/Components,n/a,Yuan Renminbi
+LP002130,Male,Yes,,Not Graduate,No,152,360,0,Rural,N,790,Major Pharmaceuticals,Euro,"Mann, Rowe and Kub",530,Property-Casualty Insurers,Major Pharmaceuticals,Euro
+LP002131,Male,Yes,2,Not Graduate,No,126,360,1,Urban,Y,830,Department/Specialty Retail Stores,Euro,Tremblay LLC,458,Major Pharmaceuticals,Department/Specialty Retail Stores,Euro
+LP002137,Male,Yes,0,Graduate,No,259,360,,Semiurban,Y,870,n/a,Yuan Renminbi,Mills LLC,699,n/a,n/a,Yuan Renminbi
+LP002138,Male,Yes,0,Graduate,No,187,360,1,Rural,Y,500,Other Consumer Services,Real,Kohler-Will,920,Packaged Foods,Other Consumer Services,Real
+LP002139,Male,Yes,0,Graduate,No,228,360,1,Semiurban,Y,550,Commercial Banks,Hryvnia,"Schumm, Konopelski and Turner",398,n/a,Commercial Banks,Hryvnia
+LP002140,Male,No,0,Graduate,No,308,360,1,Rural,N,600,Telecommunications Equipment,Rupiah,Rodriguez and Sons,802,Restaurants,Telecommunications Equipment,Rupiah
+LP002141,Male,Yes,3+,Graduate,No,95,360,1,Rural,Y,650,Military/Government/Technical,Euro,"Rippin, Quigley and Lakin",600,Major Chemicals,Military/Government/Technical,Euro
+LP002142,Female,Yes,0,Graduate,Yes,105,360,0,Rural,N,700,Coal Mining,Sol,Batz-Trantow,372,Real Estate,Coal Mining,Sol
+LP002143,Female,Yes,0,Graduate,No,130,360,1,Semiurban,Y,750,Building Materials,Yuan Renminbi,Jones Inc,648,Major Banks,Building Materials,Yuan Renminbi
+LP002144,Female,No,,Graduate,No,116,180,1,Urban,Y,800,Major Pharmaceuticals,Rupiah,Howell Group,661,Multi-Sector Companies,Major Pharmaceuticals,Rupiah
+LP002149,Male,Yes,2,Graduate,No,165,360,1,Rural,Y,850,n/a,Ariary,Effertz-Graham,630,n/a,n/a,Ariary
+LP002151,Male,Yes,1,Graduate,No,67,360,1,Urban,N,780,EDP Services,Yuan Renminbi,"Hoppe, Kassulke and O'Conner",689,n/a,EDP Services,Yuan Renminbi
+LP002158,Male,Yes,0,Not Graduate,No,100,480,0,Urban,N,620,Computer Software: Prepackaged Software,Kuna,Yost-Mohr,761,n/a,Computer Software: Prepackaged Software,Kuna
+LP002160,Male,Yes,3+,Graduate,No,200,360,1,Semiurban,Y,580,Environmental Services,Yuan Renminbi,Skiles Group,574,n/a,Environmental Services,Yuan Renminbi
+LP002161,Female,No,1,Graduate,No,81,360,1,Semiurban,N,530,Industrial Machinery/Components,Dollar,Gottlieb-Kuhlman,813,Real Estate Investment Trusts,Industrial Machinery/Components,Dollar
+LP002170,Male,Yes,2,Graduate,No,236,360,1,Semiurban,Y,651,n/a,Rupiah,Morar and Sons,615,Industrial Specialties,n/a,Rupiah
+LP002175,Male,Yes,0,Graduate,No,130,360,1,Urban,Y,701,n/a,Yuan Renminbi,Wunsch Inc,594,n/a,n/a,Yuan Renminbi
+LP002178,Male,Yes,0,Graduate,No,95,300,,Urban,Y,350,Metal Fabrications,Real,Hickle-Schamberger,498,RETAIL: Building Materials,Metal Fabrications,Real
+LP002180,Male,No,0,Graduate,Yes,141,360,1,Rural,Y,400,Finance: Consumer Services,Real,Abernathy Inc,669,Oil & Gas Production,Finance: Consumer Services,Real
+LP002181,Male,No,0,Not Graduate,No,133,360,1,Rural,N,450,n/a,Rial,Streich-Batz,307,Property-Casualty Insurers,n/a,Rial
+LP002187,Male,No,0,Graduate,No,96,480,1,Semiurban,N,500,Electrical Products,Rupiah,Ledner LLC,515,Commercial Banks,Electrical Products,Rupiah
+LP002188,Male,No,0,Graduate,No,124,,0,Rural,N,550,n/a,Yuan Renminbi,Gorczany-Hagenes,367,n/a,n/a,Yuan Renminbi
+LP002190,Male,Yes,1,Graduate,No,175,360,1,Semiurban,Y,750,Real Estate Investment Trusts,Yuan Renminbi,Pollich and Sons,665,Business Services,Real Estate Investment Trusts,Yuan Renminbi
+LP002191,Male,Yes,0,Graduate,No,570,360,1,Rural,N,800,Property-Casualty Insurers,Zloty,Parisian LLC,571,Oil & Gas Production,Property-Casualty Insurers,Zloty
+LP002194,Female,No,0,Graduate,Yes,55,360,1,Semiurban,Y,850,Air Freight/Delivery Services,Zloty,Russel-Miller,390,Medical Specialities,Air Freight/Delivery Services,Zloty
+LP002197,Male,Yes,2,Graduate,No,155,360,1,Semiurban,Y,780,Commercial Banks,Real,Collier Inc,494,Real Estate Investment Trusts,Commercial Banks,Real
+LP002201,Male,Yes,2,Graduate,Yes,380,300,1,Rural,Y,620,Telecommunications Equipment,Lek,Monahan-Blanda,401,Business Services,Telecommunications Equipment,Lek
+LP002205,Male,No,1,Graduate,No,111,180,0,Urban,N,580,Major Banks,Zloty,"Moen, Schultz and Bernhard",941,Semiconductors,Major Banks,Zloty
+LP002209,Female,No,0,Graduate,,110,360,1,Urban,Y,530,Real Estate Investment Trusts,Dollar,Corkery Group,790,Industrial Machinery/Components,Real Estate Investment Trusts,Dollar
+LP002211,Male,Yes,0,Graduate,No,120,180,1,Urban,Y,570,Major Banks,Ringgit,O'Keefe-Gutmann,663,Major Pharmaceuticals,Major Banks,Ringgit
+LP002219,Male,Yes,3+,Graduate,No,130,360,1,Rural,Y,640,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Ruble,Okuneva and Sons,860,n/a,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Ruble
+LP002223,Male,Yes,0,Graduate,No,130,360,,Semiurban,Y,690,n/a,Rupiah,O'Kon Inc,657,Business Services,n/a,Rupiah
+LP002224,Male,No,0,Graduate,No,71,480,1,Urban,N,740,n/a,Euro,Labadie-Ondricka,451,n/a,n/a,Euro
+LP002225,Male,Yes,2,Graduate,No,130,360,1,Urban,Y,790,Property-Casualty Insurers,Real,"Schoen, Botsford and Harvey",898,EDP Services,Property-Casualty Insurers,Real
+LP002226,Male,Yes,0,Graduate,,128,360,1,Semiurban,Y,830,n/a,Yuan Renminbi,Walker and Sons,372,n/a,n/a,Yuan Renminbi
+LP002229,Male,No,0,Graduate,No,296,360,1,Semiurban,Y,870,n/a,Shekel,Effertz-Flatley,419,n/a,n/a,Shekel
+LP002231,Female,No,0,Graduate,No,156,360,1,Urban,Y,300,Finance: Consumer Services,Yuan Renminbi,"Hartmann, Yundt and Lind",787,Natural Gas Distribution,Finance: Consumer Services,Yuan Renminbi
+LP002234,Male,No,0,Graduate,Yes,128,360,1,Urban,Y,350,Food Distributors,Real,Dibbert-Flatley,375,Industrial Specialties,Food Distributors,Real
+LP002236,Male,Yes,2,Graduate,No,100,360,1,Urban,N,530,Business Services,Yuan Renminbi,Marvin-Reilly,550,Package Goods/Cosmetics,Business Services,Yuan Renminbi
+LP002237,Male,No,1,Graduate,,113,180,1,Urban,Y,651,Real Estate Investment Trusts,Yen,D'Amore-Windler,761,n/a,Real Estate Investment Trusts,Yen
+LP002239,Male,No,0,Not Graduate,No,132,360,1,Semiurban,Y,701,Oil & Gas Production,Shekel,"MacGyver, Cartwright and Nienow",360,Computer peripheral equipment,Oil & Gas Production,Shekel
+LP002243,Male,Yes,0,Not Graduate,No,,360,0,Urban,N,450,Department/Specialty Retail Stores,Real,Renner-Howell,949,Computer Software: Prepackaged Software,Department/Specialty Retail Stores,Real
+LP002244,Male,Yes,0,Graduate,No,136,360,1,Urban,Y,500,Major Banks,Hryvnia,Kub Inc,699,Marine Transportation,Major Banks,Hryvnia
+LP002250,Male,Yes,0,Graduate,No,125,360,1,Rural,Y,550,n/a,Sol,Parisian-Grant,317,n/a,n/a,Sol
+LP002255,Male,No,3+,Graduate,No,185,360,1,Rural,Y,750,n/a,Yuan Renminbi,"Blanda, Hand and Grant",722,Oil & Gas Production,n/a,Yuan Renminbi
+LP002262,Male,Yes,3+,Graduate,No,275,360,1,Rural,Y,800,Oil & Gas Production,Yuan Renminbi,Wilkinson-Kemmer,686,n/a,Oil & Gas Production,Yuan Renminbi
+LP002263,Male,Yes,0,Graduate,No,120,360,,Urban,Y,850,Other Consumer Services,Rupiah,Bartoletti Group,361,Apparel,Other Consumer Services,Rupiah
+LP002265,Male,Yes,2,Not Graduate,No,113,180,1,Semiurban,Y,780,n/a,Real,Franecki-Ritchie,562,Commercial Banks,n/a,Real
+LP002266,Male,Yes,2,Graduate,No,113,360,1,Urban,Y,620,Oil Refining/Marketing,Sol,Collier Inc,705,n/a,Oil Refining/Marketing,Sol
+LP002272,Male,Yes,2,Graduate,No,135,360,,Semiurban,Y,580,Oil & Gas Production,Ruble,"Mueller, Crist and Von",312,n/a,Oil & Gas Production,Ruble
+LP002277,Female,No,0,Graduate,No,71,360,0,Urban,N,530,EDP Services,Peso,"Kutch, Kiehn and Greenfelder",902,Telecommunications Equipment,EDP Services,Peso
+LP002281,Male,Yes,0,Graduate,No,95,360,1,Urban,Y,570,Industrial Machinery/Components,Yuan Renminbi,Bahringer-Reinger,564,Biotechnology: Biological Products (No Diagnostic Substances),Industrial Machinery/Components,Yuan Renminbi
+LP002284,Male,No,0,Not Graduate,No,109,360,1,Rural,Y,640,Telecommunications Equipment,Gourde,Mosciski Group,564,Movies/Entertainment,Telecommunications Equipment,Gourde
+LP002287,Female,No,0,Graduate,No,103,360,0,Semiurban,N,690,Consumer Specialties,Yen,Rempel LLC,305,Military/Government/Technical,Consumer Specialties,Yen
+LP002288,Male,Yes,2,Not Graduate,No,45,180,0,Urban,N,740,Major Banks,Rupiah,"Corkery, Cummings and Hilll",636,Agricultural Chemicals,Major Banks,Rupiah
+LP002296,Male,No,0,Not Graduate,No,65,300,1,Rural,N,401,Building Products,Peso,Fisher-Gutkowski,672,n/a,Building Products,Peso
+LP002297,Male,No,0,Graduate,No,103,360,1,Semiurban,Y,451,Property-Casualty Insurers,Ruble,King-Koss,724,n/a,Property-Casualty Insurers,Ruble
+LP002300,Female,No,0,Not Graduate,No,53,360,1,Semiurban,Y,501,Medical Specialities,Rupiah,Schuppe-Kertzmann,356,n/a,Medical Specialities,Rupiah
+LP002301,Female,No,0,Graduate,Yes,194,360,1,Rural,N,551,Biotechnology: Commercial Physical & Biological Resarch,Peso,Feeney and Sons,680,Textiles,Biotechnology: Commercial Physical & Biological Resarch,Peso
+LP002305,Female,No,0,Graduate,No,115,360,1,Semiurban,Y,350,Water Supply,Zloty,"Kertzmann, Pfannerstill and Nienow",332,Medical/Nursing Services,Water Supply,Zloty
+LP002308,Male,Yes,0,Not Graduate,No,115,360,1,Urban,Y,400,Industrial Machinery/Components,Dollar,"Legros, Beier and Stanton",770,Major Pharmaceuticals,Industrial Machinery/Components,Dollar
+LP002314,Female,No,0,Not Graduate,No,66,360,1,Rural,Y,450,Biotechnology: Laboratory Analytical Instruments,Euro,Pacocha-Waelchi,787,n/a,Biotechnology: Laboratory Analytical Instruments,Euro
+LP002315,Male,Yes,1,Graduate,No,152,300,0,Semiurban,N,500,Advertising,Yuan Renminbi,Haley-Maggio,426,Hospital/Nursing Management,Advertising,Yuan Renminbi
+LP002317,Male,Yes,3+,Graduate,No,360,360,0,Rural,N,550,Packaged Foods,Rupiah,Kris-Stamm,342,n/a,Packaged Foods,Rupiah
+LP002318,Female,No,1,Not Graduate,Yes,62,360,1,Semiurban,N,600,Property-Casualty Insurers,Krona,"Auer, Rutherford and Huels",690,Packaged Foods,Property-Casualty Insurers,Krona
+LP002319,Male,Yes,0,Graduate,,160,360,,Urban,Y,351,Specialty Chemicals,Zloty,"Wilderman, Huel and Corkery",673,Telecommunications Equipment,Specialty Chemicals,Zloty
+LP002328,Male,Yes,0,Not Graduate,No,218,360,0,Rural,N,401,Real Estate Investment Trusts,Sol,"Raynor, West and Mann",837,Military/Government/Technical,Real Estate Investment Trusts,Sol
+LP002332,Male,Yes,0,Not Graduate,No,110,360,1,Rural,Y,451,n/a,Rupiah,Heller-Terry,598,Professional Services,n/a,Rupiah
+LP002335,Female,Yes,0,Not Graduate,No,178,360,0,Semiurban,N,501,Computer Software: Prepackaged Software,Yuan Renminbi,Rosenbaum-Hoeger,433,n/a,Computer Software: Prepackaged Software,Yuan Renminbi
+LP002337,Female,No,0,Graduate,No,60,360,1,Urban,Y,551,Semiconductors,Yen,Von-McDermott,947,Natural Gas Distribution,Semiconductors,Yen
+LP002341,Female,No,1,Graduate,No,160,360,1,Urban,N,601,n/a,Euro,Ledner LLC,499,Homebuilding,n/a,Euro
+LP002342,Male,Yes,2,Graduate,Yes,239,360,1,Urban,N,651,Forest Products,Peso,Zulauf Group,550,Business Services,Forest Products,Peso
+LP002345,Male,Yes,0,Graduate,No,112,360,1,Rural,Y,701,Electric Utilities: Central,Euro,Padberg-Waters,327,Industrial Specialties,Electric Utilities: Central,Euro
+LP002347,Male,Yes,0,Graduate,No,138,360,1,Semiurban,Y,751,Transportation Services,Rupiah,"Roberts, Wisozk and Stanton",870,Electric Utilities: Central,Transportation Services,Rupiah
+LP002348,Male,Yes,0,Graduate,No,138,360,1,Rural,Y,801,Publishing,Peso,"Dickinson, Cremin and Osinski",793,Other Consumer Services,Publishing,Peso
+LP002357,Female,No,0,Not Graduate,No,80,,0,Urban,N,301,Banks,Rial,Hegmann-Kris,696,Major Pharmaceuticals,Banks,Rial
+LP002361,Male,Yes,0,Graduate,No,100,360,1,Urban,Y,351,Business Services,Peso,Schinner LLC,761,Major Banks,Business Services,Peso
+LP002362,Male,Yes,1,Graduate,No,110,,0,Urban,N,401,n/a,Yuan Renminbi,"Schinner, Beahan and Witting",851,Television Services,n/a,Yuan Renminbi
+LP002364,Male,Yes,0,Graduate,No,96,360,1,Semiurban,Y,451,Books,Ruble,Batz and Sons,929,Telecommunications Equipment,Books,Ruble
+LP002366,Male,Yes,0,Graduate,No,121,360,1,Rural,Y,501,Power Generation,Euro,"Crist, Tillman and Keebler",680,Medical Specialities,Power Generation,Euro
+LP002367,Female,No,1,Not Graduate,No,81,360,1,Rural,N,551,Electrical Products,Rupiah,"Waters, Cole and Schamberger",570,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Electrical Products,Rupiah
+LP002368,Male,Yes,2,Graduate,No,133,360,1,Semiurban,Y,350,Hospital/Nursing Management,Euro,Luettgen and Sons,795,n/a,Hospital/Nursing Management,Euro
+LP002369,Male,Yes,0,Graduate,No,87,360,1,Rural,Y,400,Major Pharmaceuticals,Baht,"Bradtke, O'Conner and Keebler",822,n/a,Major Pharmaceuticals,Baht
+LP002370,Male,No,0,Not Graduate,No,60,180,1,Urban,Y,450,Major Banks,Krone,Bahringer-Lowe,379,EDP Services,Major Banks,Krone
+LP002377,Female,No,1,Graduate,Yes,150,360,1,Semiurban,Y,500,Major Banks,Ruble,Abbott Group,346,Power Generation,Major Banks,Ruble
+LP002379,Male,No,0,Graduate,No,105,360,0,Rural,N,550,Real Estate Investment Trusts,Yuan Renminbi,Hermiston-Rippin,907,Industrial Machinery/Components,Real Estate Investment Trusts,Yuan Renminbi
+LP002386,Male,No,0,Graduate,,405,360,1,Semiurban,Y,600,Railroads,Peso,"Parker, Romaguera and Nikolaus",946,Integrated oil Companies,Railroads,Peso
+LP002387,Male,Yes,0,Graduate,No,143,360,1,Semiurban,Y,351,Banks,Rupiah,Effertz-Schumm,946,Computer Software: Prepackaged Software,Banks,Rupiah
+LP002390,Male,No,0,Graduate,No,100,360,1,Urban,Y,401,Major Pharmaceuticals,Rupiah,Sanford-Franecki,619,Major Pharmaceuticals,Major Pharmaceuticals,Rupiah
+LP002393,Female,,,Graduate,No,,240,1,Semiurban,Y,451,Investment Managers,Yuan Renminbi,Wehner Inc,397,Major Pharmaceuticals,Investment Managers,Yuan Renminbi
+LP002398,Male,No,0,Graduate,No,50,360,1,Semiurban,Y,501,Oil & Gas Production,Euro,Bergstrom-Lockman,302,n/a,Oil & Gas Production,Euro
+LP002401,Male,Yes,0,Graduate,No,,360,1,Urban,Y,551,Semiconductors,Hryvnia,Jerde-Gerhold,391,Real Estate Investment Trusts,Semiconductors,Hryvnia
+LP002403,Male,No,0,Graduate,Yes,187,360,0,Urban,N,601,Life Insurance,Somoni,Reichel-Doyle,925,n/a,Life Insurance,Somoni
+LP002407,Female,Yes,0,Not Graduate,Yes,138,360,1,Rural,Y,651,Real Estate Investment Trusts,Koruna,Kiehn Inc,699,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Real Estate Investment Trusts,Koruna
+LP002408,Male,No,0,Graduate,No,187,360,1,Semiurban,Y,701,Telecommunications Equipment,Rial,Dibbert LLC,363,Apparel,Telecommunications Equipment,Rial
+LP002409,Male,Yes,0,Graduate,No,180,360,1,Rural,Y,350,Real Estate Investment Trusts,Dollar,Williamson Group,542,Major Pharmaceuticals,Real Estate Investment Trusts,Dollar
+LP002418,Male,No,3+,Not Graduate,No,148,360,1,Semiurban,Y,400,Recreational Products/Toys,Yuan Renminbi,Schimmel LLC,950,Major Pharmaceuticals,Recreational Products/Toys,Yuan Renminbi
+LP002422,Male,No,1,Graduate,No,152,360,1,Semiurban,Y,450,Telecommunications Equipment,Euro,Gorczany-Schiller,423,Oilfield Services/Equipment,Telecommunications Equipment,Euro
+LP002424,Male,Yes,0,Graduate,No,175,300,,Rural,Y,500,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Euro,Kunde-Crooks,911,n/a,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Euro
+LP002429,Male,Yes,1,Graduate,Yes,130,360,1,Rural,Y,550,Major Pharmaceuticals,Won,Bashirian-Roob,344,Marine Transportation,Major Pharmaceuticals,Won
+LP002434,Male,Yes,2,Not Graduate,No,110,360,1,Rural,Y,600,Natural Gas Distribution,Peso,Kutch Inc,516,n/a,Natural Gas Distribution,Peso
+LP002435,Male,Yes,0,Graduate,,55,360,1,Rural,N,650,Real Estate Investment Trusts,Real,Schamberger-Bahringer,919,n/a,Real Estate Investment Trusts,Real
+LP002443,Male,Yes,2,Graduate,No,150,360,0,Rural,N,700,n/a,Rupiah,Fay Group,620,Oilfield Services/Equipment,n/a,Rupiah
+LP002444,Male,No,1,Not Graduate,Yes,190,360,,Semiurban,N,750,Finance: Consumer Services,Rupiah,Crona Inc,545,n/a,Finance: Consumer Services,Rupiah
+LP002446,Male,Yes,2,Not Graduate,No,125,360,0,Rural,N,800,Telecommunications Equipment,Yuan Renminbi,Thiel-Braun,436,n/a,Telecommunications Equipment,Yuan Renminbi
+LP002447,Male,Yes,2,Not Graduate,No,60,300,,Urban,Y,850,Oil & Gas Production,Won,Goldner Group,772,Restaurants,Oil & Gas Production,Won
+LP002448,Male,Yes,0,Graduate,No,149,360,0,Rural,N,780,Major Banks,Peso,Hegmann and Sons,525,Metal Fabrications,Major Banks,Peso
+LP002449,Male,Yes,0,Graduate,No,90,180,0,Rural,Y,620,Marine Transportation,Zloty,Greenholt-Fay,572,Semiconductors,Marine Transportation,Zloty
+LP002453,Male,No,0,Graduate,Yes,84,360,1,Semiurban,Y,580,Finance: Consumer Services,Euro,Howe and Sons,370,Clothing/Shoe/Accessory Stores,Finance: Consumer Services,Euro
+LP002455,Male,Yes,2,Graduate,No,96,360,1,Semiurban,Y,530,Home Furnishings,Lev,"Schmitt, Weissnat and Altenwerth",782,n/a,Home Furnishings,Lev
+LP002459,Male,Yes,0,Graduate,No,118,360,1,Urban,Y,570,Business Services,Ruble,Wiza-Greenholt,576,n/a,Business Services,Ruble
+LP002467,Male,Yes,0,Graduate,No,173,360,1,Urban,N,640,Savings Institutions,Yuan Renminbi,Johnson-Swaniawski,874,n/a,Savings Institutions,Yuan Renminbi
+LP002472,Male,No,2,Graduate,No,136,360,1,Rural,Y,690,Savings Institutions,Euro,"Lang, Kuhlman and Auer",910,Property-Casualty Insurers,Savings Institutions,Euro
+LP002473,Male,Yes,0,Graduate,No,160,360,1,Semiurban,N,740,Real Estate Investment Trusts,Euro,Shields Group,539,Business Services,Real Estate Investment Trusts,Euro
+LP002478,,Yes,0,Graduate,Yes,160,360,,Semiurban,Y,790,Major Chemicals,Tugrik,Schneider-Graham,307,n/a,Major Chemicals,Tugrik
+LP002484,Male,Yes,3+,Graduate,No,128,180,1,Urban,Y,830,Oil & Gas Production,Real,Schmitt Inc,628,Other Consumer Services,Oil & Gas Production,Real
+LP002487,Male,Yes,0,Graduate,No,153,360,1,Rural,Y,870,n/a,Euro,"Ondricka, Deckow and Donnelly",662,n/a,n/a,Euro
+LP002489,Female,No,1,Not Graduate,,132,360,1,Semiurban,Y,500,Oil & Gas Production,Rupiah,Kuhic LLC,828,Major Pharmaceuticals,Oil & Gas Production,Rupiah
+LP002493,Male,No,0,Graduate,No,98,360,0,Semiurban,N,550,Military/Government/Technical,Yuan Renminbi,Torphy-Raynor,440,n/a,Military/Government/Technical,Yuan Renminbi
+LP002494,Male,No,0,Graduate,No,140,360,1,Rural,Y,600,n/a,Sol,Brown Inc,503,n/a,n/a,Sol
+LP002500,Male,Yes,3+,Not Graduate,No,70,180,0,Urban,N,650,n/a,Yen,Ward and Sons,831,Medical Specialities,n/a,Yen
+LP002501,,Yes,0,Graduate,No,110,360,1,Semiurban,Y,700,n/a,Yuan Renminbi,Huel Group,671,Food Chains,n/a,Yuan Renminbi
+LP002502,Female,Yes,2,Not Graduate,,98,360,1,Semiurban,Y,750,Life Insurance,Franc,O'Keefe Group,727,Major Banks,Life Insurance,Franc
+LP002505,Male,Yes,0,Graduate,No,110,360,1,Urban,N,800,Ophthalmic Goods,Real,"Farrell, Nitzsche and Hoeger",830,Semiconductors,Ophthalmic Goods,Real
+LP002515,Male,Yes,1,Graduate,Yes,162,360,1,Semiurban,Y,850,Telecommunications Equipment,Real,"Ortiz, Volkman and Greenholt",885,n/a,Telecommunications Equipment,Real
+LP002517,Male,Yes,1,Not Graduate,No,113,180,0,Rural,N,780,Finance: Consumer Services,Euro,Ondricka Inc,688,n/a,Finance: Consumer Services,Euro
+LP002519,Male,Yes,3+,Graduate,No,100,360,1,Semiurban,Y,620,Auto Parts:O.E.M.,Dollar,"Crona, Wintheiser and Kohler",314,n/a,Auto Parts:O.E.M.,Dollar
+LP002522,Female,No,0,Graduate,Yes,93,360,,Urban,Y,580,Oil & Gas Production,Euro,Lakin-Kris,446,Electric Utilities: Central,Oil & Gas Production,Euro
+LP002524,Male,No,2,Graduate,No,162,360,1,Rural,Y,530,n/a,Yuan Renminbi,Leuschke-Thompson,402,Electric Utilities: Central,n/a,Yuan Renminbi
+LP002527,Male,Yes,2,Graduate,Yes,150,360,1,Rural,Y,570,n/a,Yuan Renminbi,Ankunding-Ferry,741,n/a,n/a,Yuan Renminbi
+LP002529,Male,Yes,2,Graduate,No,230,300,1,Semiurban,Y,640,n/a,Rupiah,Grant Inc,774,Biotechnology: In Vitro & In Vivo Diagnostic Substances,n/a,Rupiah
+LP002530,,Yes,2,Graduate,No,132,360,0,Semiurban,N,690,n/a,Yuan Renminbi,Fritsch-Zieme,945,Major Chemicals,n/a,Yuan Renminbi
+LP002531,Male,Yes,1,Graduate,Yes,86,360,1,Semiurban,Y,740,Major Banks,Zloty,Crist-Rempel,469,Real Estate,Major Banks,Zloty
+LP002533,Male,Yes,2,Graduate,No,,360,1,Urban,N,790,Life Insurance,Euro,Ratke and Sons,949,n/a,Life Insurance,Euro
+LP002534,Female,No,0,Not Graduate,No,154,360,1,Rural,Y,830,Newspapers/Magazines,Yuan Renminbi,Wolff Group,384,Electronic Components,Newspapers/Magazines,Yuan Renminbi
+LP002536,Male,Yes,3+,Not Graduate,No,113,360,1,Rural,Y,870,Savings Institutions,Dong,"Feil, Kulas and Price",782,Computer Software: Prepackaged Software,Savings Institutions,Dong
+LP002537,Male,Yes,0,Graduate,No,128,360,1,Semiurban,Y,300,n/a,Yuan Renminbi,Fisher-Mertz,608,Major Pharmaceuticals,n/a,Yuan Renminbi
+LP002541,Male,Yes,0,Graduate,No,234,360,1,Semiurban,Y,350,Telecommunications Equipment,Yuan Renminbi,"Cassin, Pouros and Green",659,Finance Companies,Telecommunications Equipment,Yuan Renminbi
+LP002543,Male,Yes,2,Graduate,No,246,360,1,Semiurban,Y,400,Other Transportation,Rand,Mante LLC,489,Real Estate Investment Trusts,Other Transportation,Rand
+LP002544,Male,Yes,1,Not Graduate,No,131,360,1,Rural,Y,450,n/a,Rupiah,"Tillman, Schaden and Weimann",635,Rental/Leasing Companies,n/a,Rupiah
+LP002545,Male,No,2,Graduate,No,80,360,0,Rural,N,500,Electric Utilities: Central,Real,Funk Group,449,Investment Bankers/Brokers/Service,Electric Utilities: Central,Real
+LP002547,Male,Yes,1,Graduate,No,500,360,1,Urban,N,550,n/a,Kyat,Kohler and Sons,346,Real Estate Investment Trusts,n/a,Kyat
+LP002555,Male,Yes,2,Graduate,Yes,160,360,1,Semiurban,Y,600,n/a,Yuan Renminbi,Leuschke Inc,591,Medical Specialities,n/a,Yuan Renminbi
+LP002556,Male,No,0,Graduate,No,75,360,1,Urban,N,650,Transportation Services,Yuan Renminbi,Hirthe-Klocko,571,Electronic Components,Transportation Services,Yuan Renminbi
+LP002560,Male,No,0,Not Graduate,No,96,360,,Semiurban,Y,700,Biotechnology: Biological Products (No Diagnostic Substances),Rupiah,Goldner-Abshire,811,Containers/Packaging,Biotechnology: Biological Products (No Diagnostic Substances),Rupiah
+LP002562,Male,Yes,1,Not Graduate,No,186,360,,Urban,Y,750,Major Chemicals,Escudo,"Harris, Witting and Torphy",312,Major Banks,Major Chemicals,Escudo
+LP002571,Male,No,0,Not Graduate,No,110,360,1,Rural,Y,800,Computer Communications Equipment,Rupiah,Schroeder-Schuster,371,Biotechnology: Biological Products (No Diagnostic Substances),Computer Communications Equipment,Rupiah
+LP002582,Female,No,0,Not Graduate,Yes,225,360,1,Semiurban,Y,640,n/a,Dollar,Nienow LLC,379,RETAIL: Building Materials,n/a,Dollar
+LP002585,Male,Yes,0,Graduate,No,119,360,0,Rural,N,690,Multi-Sector Companies,Yuan Renminbi,Reynolds Group,443,Semiconductors,Multi-Sector Companies,Yuan Renminbi
+LP002586,Female,Yes,1,Graduate,No,105,84,1,Semiurban,Y,740,"Computer Software: Programming, Data Processing",Euro,"Donnelly, Treutel and Miller",367,Real Estate,"Computer Software: Programming, Data Processing",Euro
+LP002587,Male,Yes,0,Not Graduate,No,107,360,1,Rural,Y,790,n/a,Baht,Bartell Inc,591,Electric Utilities: Central,n/a,Baht
+LP002588,Male,Yes,0,Graduate,No,111,12,,Urban,Y,830,Major Pharmaceuticals,Peso,Swaniawski-Barton,932,Investment Bankers/Brokers/Service,Major Pharmaceuticals,Peso
+LP002600,Male,Yes,1,Graduate,Yes,95,360,1,Semiurban,Y,870,Computer Software: Prepackaged Software,Euro,"Flatley, Green and Howell",435,Specialty Chemicals,Computer Software: Prepackaged Software,Euro
+LP002602,Male,No,0,Graduate,No,209,360,0,Rural,N,500,n/a,Rupiah,King LLC,466,Forest Products,n/a,Rupiah
+LP002603,Female,No,0,Graduate,No,113,480,1,Rural,Y,550,Major Pharmaceuticals,Forint,Gutmann and Sons,429,Package Goods/Cosmetics,Major Pharmaceuticals,Forint
+LP002606,Female,No,0,Graduate,No,100,360,1,Semiurban,Y,600,Paints/Coatings,Yuan Renminbi,"Prosacco, Erdman and Wisoky",574,RETAIL: Building Materials,Paints/Coatings,Yuan Renminbi
+LP002615,Male,Yes,2,Graduate,No,208,360,1,Semiurban,Y,650,Major Banks,Yuan Renminbi,Schamberger Group,578,n/a,Major Banks,Yuan Renminbi
+LP002618,Male,Yes,1,Not Graduate,No,138,360,,Rural,N,700,Integrated oil Companies,Yuan Renminbi,Zemlak-Smitham,929,Industrial Machinery/Components,Integrated oil Companies,Yuan Renminbi
+LP002619,Male,Yes,0,Not Graduate,No,124,300,1,Semiurban,Y,750,Auto Manufacturing,Rupiah,"Hansen, Grady and Carroll",364,Power Generation,Auto Manufacturing,Rupiah
+LP002622,Male,Yes,2,Graduate,No,243,360,1,Rural,Y,800,Department/Specialty Retail Stores,Yuan Renminbi,"Kunde, Hansen and Raynor",758,Computer Software: Prepackaged Software,Department/Specialty Retail Stores,Yuan Renminbi
+LP002624,Male,Yes,0,Graduate,No,480,360,,Urban,Y,850,Electric Utilities: Central,Euro,Beahan and Sons,747,Aluminum,Electric Utilities: Central,Euro
+LP002625,,No,0,Graduate,No,96,360,1,Urban,N,780,"Computer Software: Programming, Data Processing",Yuan Renminbi,"Krajcik, Cummings and Rempel",339,Major Pharmaceuticals,"Computer Software: Programming, Data Processing",Yuan Renminbi
+LP002626,Male,Yes,0,Graduate,Yes,188,360,1,Urban,Y,620,n/a,Peso,"Kuhn, Feeney and Weber",352,Apparel,n/a,Peso
+LP002634,Female,No,1,Graduate,No,40,360,1,Urban,Y,580,n/a,Gourde,Borer-Waelchi,656,Real Estate Investment Trusts,n/a,Gourde
+LP002637,Male,No,0,Not Graduate,No,100,360,1,Rural,N,530,Publishing,Euro,Streich and Sons,901,Auto Parts:O.E.M.,Publishing,Euro
+LP002640,Male,Yes,1,Graduate,No,250,360,1,Semiurban,Y,651,Investment Bankers/Brokers/Service,Ruble,Koelpin-Durgan,763,n/a,Investment Bankers/Brokers/Service,Ruble
+LP002643,Male,Yes,2,Graduate,No,148,360,1,Urban,Y,701,Professional Services,Yuan Renminbi,Powlowski-Corwin,300,n/a,Professional Services,Yuan Renminbi
+LP002648,Male,Yes,0,Graduate,No,70,180,1,Semiurban,N,350,Property-Casualty Insurers,Hryvnia,Purdy-Langworth,659,Real Estate Investment Trusts,Property-Casualty Insurers,Hryvnia
+LP002652,Male,No,0,Graduate,No,311,360,1,Rural,N,400,Telecommunications Equipment,Yuan Renminbi,Towne-Connelly,367,Semiconductors,Telecommunications Equipment,Yuan Renminbi
+LP002659,Male,Yes,3+,Graduate,No,150,360,1,Rural,Y,450,Major Pharmaceuticals,Euro,"Schimmel, Rogahn and Senger",635,Electric Utilities: Central,Major Pharmaceuticals,Euro
+LP002670,Female,Yes,2,Graduate,No,113,480,1,Semiurban,Y,500,n/a,Euro,"Kling, Balistreri and Huels",308,Telecommunications Equipment,n/a,Euro
+LP002682,Male,Yes,,Not Graduate,No,123,360,0,Semiurban,N,550,n/a,Ariary,"Conroy, Emard and Ruecker",668,Computer Software: Prepackaged Software,n/a,Ariary
+LP002683,Male,No,0,Graduate,No,185,360,1,Semiurban,N,450,n/a,Yuan Renminbi,Ebert Group,310,Major Banks,n/a,Yuan Renminbi
+LP002684,Female,No,0,Not Graduate,No,95,360,1,Rural,N,500,n/a,Real,"Kemmer, Davis and Jones",644,EDP Services,n/a,Real
+LP002689,Male,Yes,2,Not Graduate,No,45,360,1,Semiurban,Y,550,n/a,Sol,Stroman-Lynch,769,Medical/Dental Instruments,n/a,Sol
+LP002690,Male,No,0,Graduate,No,55,360,1,Semiurban,Y,600,Farming/Seeds/Milling,Yuan Renminbi,Reilly LLC,625,n/a,Farming/Seeds/Milling,Yuan Renminbi
+LP002692,Male,Yes,3+,Graduate,Yes,100,360,1,Rural,Y,650,n/a,Yuan Renminbi,Braun-Bednar,740,Computer Communications Equipment,n/a,Yuan Renminbi
+LP002693,Male,Yes,2,Graduate,Yes,480,360,1,Rural,Y,700,Coal Mining,Litas,"Cruickshank, Kihn and Bins",709,n/a,Coal Mining,Litas
+LP002697,Male,No,0,Graduate,No,,360,1,Semiurban,N,750,n/a,Yuan Renminbi,Jacobs LLC,745,n/a,n/a,Yuan Renminbi
+LP002699,Male,Yes,2,Graduate,Yes,400,360,1,Rural,Y,800,Natural Gas Distribution,Bolivar,"Nicolas, Waters and Blanda",505,Electric Utilities: Central,Natural Gas Distribution,Bolivar
+LP002705,Male,Yes,0,Graduate,No,110,360,1,Semiurban,Y,850,Forest Products,Rial,"Purdy, Hermann and Mraz",300,n/a,Forest Products,Rial
+LP002706,Male,Yes,1,Not Graduate,No,161,360,0,Semiurban,Y,780,Professional Services,Rupiah,Keeling-Heaney,326,Major Banks,Professional Services,Rupiah
+LP002714,Male,No,1,Not Graduate,No,94,360,1,Semiurban,Y,620,Computer Software: Prepackaged Software,Baht,"Schmitt, Schimmel and Schroeder",396,Real Estate Investment Trusts,Computer Software: Prepackaged Software,Baht
+LP002716,Male,No,0,Not Graduate,No,130,360,1,Semiurban,Y,580,Trucking Freight/Courier Services,Ruble,Willms-Spencer,403,n/a,Trucking Freight/Courier Services,Ruble
+LP002717,Male,Yes,0,Graduate,No,216,360,,Rural,Y,530,Major Banks,Yuan Renminbi,O'Kon and Sons,759,Steel/Iron Ore,Major Banks,Yuan Renminbi
+LP002720,Male,Yes,3+,Graduate,No,100,360,1,Urban,Y,570,Oil Refining/Marketing,Yuan Renminbi,Kohler Group,929,Electrical Products,Oil Refining/Marketing,Yuan Renminbi
+LP002723,Male,No,2,Graduate,No,110,360,0,Rural,N,640,Agricultural Chemicals,Franc,Casper LLC,506,Coal Mining,Agricultural Chemicals,Franc
+LP002729,Male,No,1,Graduate,No,196,360,,Semiurban,N,690,n/a,Lev,"Raynor, Walker and Rutherford",519,Telecommunications Equipment,n/a,Lev
+LP002731,Female,No,0,Not Graduate,Yes,125,360,1,Urban,Y,740,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Ouguiya,O'Hara LLC,669,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Ouguiya
+LP002732,Male,No,0,Not Graduate,,126,360,1,Rural,Y,790,Major Banks,Rupiah,Hauck Inc,395,Metal Fabrications,Major Banks,Rupiah
+LP002734,Male,Yes,0,Graduate,No,324,360,1,Urban,Y,830,Television Services,Zloty,"Becker, Balistreri and Nienow",861,Auto Manufacturing,Television Services,Zloty
+LP002738,Male,No,2,Graduate,No,107,360,1,Semiurban,Y,870,n/a,Peso,"Murray, Spinka and Nienow",775,n/a,n/a,Peso
+LP002739,Male,Yes,0,Not Graduate,No,66,360,1,Rural,N,300,Steel/Iron Ore,Yuan Renminbi,"Rice, Farrell and McClure",578,n/a,Steel/Iron Ore,Yuan Renminbi
+LP002740,Male,Yes,3+,Graduate,No,157,180,1,Rural,Y,350,Medical/Dental Instruments,Zloty,McDermott LLC,356,Packaged Foods,Medical/Dental Instruments,Zloty
+LP002741,Female,Yes,1,Graduate,No,140,180,1,Semiurban,Y,400,Major Banks,Yuan Renminbi,Bergstrom Group,814,Packaged Foods,Major Banks,Yuan Renminbi
+LP002743,Female,No,0,Graduate,No,99,360,0,Semiurban,N,450,Real Estate Investment Trusts,Krona,Hills-Dickens,346,n/a,Real Estate Investment Trusts,Krona
+LP002753,Female,No,1,Graduate,,95,360,1,Semiurban,Y,500,Business Services,Yuan Renminbi,Senger Group,642,Other Consumer Services,Business Services,Yuan Renminbi
+LP002755,Male,Yes,1,Not Graduate,No,128,360,1,Urban,Y,550,Business Services,Yuan Renminbi,"Rogahn, Wiza and DuBuque",787,n/a,Business Services,Yuan Renminbi
+LP002757,Female,Yes,0,Not Graduate,No,102,360,,Semiurban,Y,600,Major Banks,Shekel,Goyette-Hackett,855,Construction/Ag Equipment/Trucks,Major Banks,Shekel
+LP002767,Male,Yes,0,Graduate,No,155,360,1,Rural,Y,650,Major Pharmaceuticals,Yuan Renminbi,"Bauch, Feeney and Schulist",716,Telecommunications Equipment,Major Pharmaceuticals,Yuan Renminbi
+LP002768,Male,No,0,Not Graduate,No,80,36,1,Semiurban,N,700,Medical Specialities,Rupiah,"Auer, Wiza and Roob",621,Major Banks,Medical Specialities,Rupiah
+LP002772,Male,No,0,Graduate,No,145,360,1,Rural,Y,750,n/a,Sol,Davis-Boyer,449,Major Pharmaceuticals,n/a,Sol
+LP002776,Female,No,0,Graduate,No,103,360,0,Semiurban,N,800,Major Pharmaceuticals,Hryvnia,Jacobs and Sons,742,Textiles,Major Pharmaceuticals,Hryvnia
+LP002777,Male,Yes,0,Graduate,No,110,360,1,Rural,Y,850,Homebuilding,Peso,Hansen-Brekke,918,Computer Communications Equipment,Homebuilding,Peso
+LP002778,Male,Yes,2,Graduate,Yes,,360,0,Rural,N,780,n/a,Yuan Renminbi,"Gulgowski, Block and Cassin",910,Restaurants,n/a,Yuan Renminbi
+LP002784,Male,Yes,1,Not Graduate,No,,360,1,Rural,Y,620,Business Services,Denar,"Goldner, Terry and Block",776,Telecommunications Equipment,Business Services,Denar
+LP002785,Male,Yes,1,Graduate,No,158,360,1,Urban,Y,580,Major Banks,Ruble,Abshire LLC,350,Environmental Services,Major Banks,Ruble
+LP002788,Male,Yes,0,Not Graduate,No,181,360,0,Urban,N,530,n/a,Euro,"Schoen, Crona and Veum",547,n/a,n/a,Euro
+LP002789,Male,Yes,0,Graduate,No,132,180,0,Rural,N,570,Industrial Machinery/Components,Baht,Hodkiewicz LLC,364,n/a,Industrial Machinery/Components,Baht
+LP002792,Male,Yes,1,Graduate,No,26,360,1,Semiurban,Y,640,n/a,Yen,Beer and Sons,926,Property-Casualty Insurers,n/a,Yen
+LP002794,Female,No,0,Graduate,No,84,360,,Urban,Y,690,n/a,Ruble,"Willms, Mayert and Abbott",465,Biotechnology: Biological Products (No Diagnostic Substances),n/a,Ruble
+LP002795,Male,Yes,3+,Graduate,Yes,260,360,1,Semiurban,Y,740,Diversified Commercial Services,Bolivar,"Bartell, Boyle and Spencer",660,Professional Services,Diversified Commercial Services,Bolivar
+LP002798,Male,Yes,0,Graduate,No,162,360,1,Semiurban,Y,790,Construction/Ag Equipment/Trucks,Pula,"Bartoletti, Rippin and Maggio",811,"Computer Software: Programming, Data Processing",Construction/Ag Equipment/Trucks,Pula
+LP002804,Female,Yes,0,Graduate,No,182,360,1,Semiurban,Y,830,Real Estate Investment Trusts,Yuan Renminbi,"Rau, Predovic and Hayes",921,Major Banks,Real Estate Investment Trusts,Yuan Renminbi
+LP002807,Male,Yes,2,Not Graduate,No,108,360,1,Semiurban,Y,870,Industrial Specialties,Euro,Weber-Hahn,913,n/a,Industrial Specialties,Euro
+LP002813,Female,Yes,1,Graduate,Yes,600,360,1,Semiurban,Y,301,Homebuilding,Zloty,Kling LLC,575,Broadcasting,Homebuilding,Zloty
+LP002820,Male,Yes,0,Graduate,No,211,360,1,Rural,Y,351,Major Banks,Yuan Renminbi,"Ruecker, Willms and Gusikowski",651,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Major Banks,Yuan Renminbi
+LP002821,Male,No,0,Not Graduate,Yes,132,360,1,Semiurban,Y,401,Marine Transportation,Peso,"Kuphal, Hickle and Considine",417,Semiconductors,Marine Transportation,Peso
+LP002832,Male,Yes,2,Graduate,No,258,360,0,Urban,N,451,n/a,Euro,Kihn and Sons,503,n/a,n/a,Euro
+LP002833,Male,Yes,0,Not Graduate,No,120,360,,Rural,Y,501,n/a,Peso,"Senger, Boyer and Murray",722,Business Services,n/a,Peso
+LP002836,Male,No,0,Graduate,No,70,360,1,Urban,Y,551,Business Services,Rupiah,Wolf-Heller,752,n/a,Business Services,Rupiah
+LP002837,Male,Yes,3+,Graduate,No,123,360,0,Rural,N,601,Semiconductors,Baht,Harvey-Parker,507,Computer peripheral equipment,Semiconductors,Baht
+LP002840,Female,No,0,Graduate,No,9,360,1,Urban,N,651,Services-Misc. Amusement & Recreation,Yuan Renminbi,Will-Prohaska,618,Electric Utilities: Central,Services-Misc. Amusement & Recreation,Yuan Renminbi
+LP002841,Male,Yes,0,Graduate,No,104,360,0,Urban,N,701,Marine Transportation,Franc,Bruen-Frami,743,Auto Manufacturing,Marine Transportation,Franc
+LP002842,Male,Yes,1,Graduate,No,186,360,1,Urban,Y,800,Radio And Television Broadcasting And Communications Equipment,Peso,"Dickens, Stoltenberg and Kuhn",911,Television Services,Radio And Television Broadcasting And Communications Equipment,Peso
+LP002847,Male,Yes,,Graduate,No,165,360,0,Urban,N,850,Real Estate Investment Trusts,Yuan Renminbi,"Hilll, Roberts and Daniel",419,Major Pharmaceuticals,Real Estate Investment Trusts,Yuan Renminbi
+LP002855,Male,Yes,2,Graduate,No,275,360,1,Urban,Y,780,n/a,Shilling,Leuschke-Prosacco,545,Accident &Health Insurance,n/a,Shilling
+LP002862,Male,Yes,2,Not Graduate,No,187,480,1,Semiurban,N,620,Business Services,Yuan Renminbi,Lakin Group,911,Industrial Specialties,Business Services,Yuan Renminbi
+LP002863,Male,Yes,3+,Graduate,No,150,360,1,Semiurban,N,580,Business Services,Yuan Renminbi,Rogahn LLC,610,Pollution Control Equipment,Business Services,Yuan Renminbi
+LP002868,Male,Yes,2,Graduate,No,108,84,1,Urban,Y,530,"Computer Software: Programming, Data Processing",Yen,Rolfson LLC,725,n/a,"Computer Software: Programming, Data Processing",Yen
+LP002872,,Yes,0,Graduate,No,136,360,0,Semiurban,N,570,Diversified Commercial Services,Peso,"Haley, West and Wilkinson",502,Property-Casualty Insurers,Diversified Commercial Services,Peso
+LP002874,Male,No,0,Graduate,No,110,360,1,Urban,Y,640,n/a,Baht,Price Inc,610,Clothing/Shoe/Accessory Stores,n/a,Baht
+LP002877,Male,Yes,1,Graduate,No,107,360,1,Rural,Y,690,n/a,Ruble,"Ruecker, Wiza and Gulgowski",586,Semiconductors,n/a,Ruble
+LP002888,Male,No,0,Graduate,,161,360,1,Urban,Y,740,Major Pharmaceuticals,Ruble,Denesik-Ratke,891,Natural Gas Distribution,Major Pharmaceuticals,Ruble
+LP002892,Male,Yes,2,Graduate,No,205,360,1,Semiurban,Y,790,Real Estate,Yen,Rohan-Hyatt,565,n/a,Real Estate,Yen
+LP002893,Male,No,0,Graduate,No,90,360,1,Urban,N,830,Major Pharmaceuticals,Kuna,Hand-Fahey,412,n/a,Major Pharmaceuticals,Kuna
+LP002894,Female,Yes,0,Graduate,No,36,360,1,Semiurban,Y,870,Oil Refining/Marketing,Yuan Renminbi,Weimann LLC,573,Computer Software: Prepackaged Software,Oil Refining/Marketing,Yuan Renminbi
+LP002898,Male,Yes,1,Graduate,No,61,360,,Rural,N,300,Newspapers/Magazines,Ruble,Nikolaus and Sons,684,Business Services,Newspapers/Magazines,Ruble
+LP002911,Male,Yes,1,Graduate,No,146,360,0,Rural,N,350,Business Services,Yuan Renminbi,Welch-Rice,621,Investment Bankers/Brokers/Service,Business Services,Yuan Renminbi
+LP002912,Male,Yes,1,Graduate,No,172,84,1,Rural,N,400,EDP Services,Colon,Walter-DuBuque,622,Electrical Products,EDP Services,Colon
+LP002916,Male,Yes,0,Graduate,No,104,360,1,Urban,Y,450,n/a,Yuan Renminbi,Jacobi-Aufderhar,847,Building Materials,n/a,Yuan Renminbi
+LP002917,Female,No,0,Not Graduate,No,70,360,1,Semiurban,Y,500,Industrial Machinery/Components,Kuna,Cremin Inc,488,Electrical Products,Industrial Machinery/Components,Kuna
+LP002925,,No,0,Graduate,No,94,360,1,Semiurban,Y,550,Air Freight/Delivery Services,Rupiah,Kassulke-Johnson,820,Investment Managers,Air Freight/Delivery Services,Rupiah
+LP002926,Male,Yes,2,Graduate,Yes,106,360,0,Semiurban,N,600,Multi-Sector Companies,Peso,"Corkery, Mayer and Skiles",825,Other Specialty Stores,Multi-Sector Companies,Peso
+LP002928,Male,Yes,0,Graduate,No,56,180,1,Semiurban,Y,650,n/a,Peso,Schmitt-Metz,578,Computer Software: Prepackaged Software,n/a,Peso
+LP002931,Male,Yes,2,Graduate,Yes,205,240,1,Semiurban,N,700,Natural Gas Distribution,Hryvnia,Mann-Bartell,534,Computer Manufacturing,Natural Gas Distribution,Hryvnia
+LP002933,,No,3+,Graduate,Yes,292,360,1,Semiurban,Y,750,Building Materials,Euro,Auer-McLaughlin,539,Biotechnology: Biological Products (No Diagnostic Substances),Building Materials,Euro
+LP002936,Male,Yes,0,Graduate,No,142,180,1,Rural,Y,800,Real Estate Investment Trusts,Peso,"Lockman, Larkin and Mante",413,Department/Specialty Retail Stores,Real Estate Investment Trusts,Peso
+LP002938,Male,Yes,0,Graduate,Yes,260,360,1,Urban,Y,850,n/a,Yuan Renminbi,Senger-McCullough,667,Television Services,n/a,Yuan Renminbi
+LP002940,Male,No,0,Not Graduate,No,110,360,1,Rural,Y,780,n/a,Yuan Renminbi,O'Reilly LLC,742,Metal Fabrications,n/a,Yuan Renminbi
+LP002941,Male,Yes,2,Not Graduate,Yes,187,360,1,Rural,N,620,n/a,Naira,Krajcik LLC,771,Electrical Products,n/a,Naira
+LP002943,Male,No,,Graduate,No,88,360,0,Semiurban,N,580,n/a,Euro,Feeney-Durgan,383,Television Services,n/a,Euro
+LP002945,Male,Yes,0,Graduate,Yes,180,360,1,Rural,Y,530,Major Chemicals,Baht,Pouros LLC,686,n/a,Major Chemicals,Baht
+LP002948,Male,Yes,2,Graduate,No,192,360,1,Urban,Y,570,Other Specialty Stores,Peso,Bednar-Kulas,698,Medical/Dental Instruments,Other Specialty Stores,Peso
+LP002949,Female,No,3+,Graduate,,350,180,,Urban,N,640,Business Services,Peso,Ward Group,581,Savings Institutions,Business Services,Peso
+LP002950,Male,Yes,0,Not Graduate,,155,360,1,Rural,Y,690,Restaurants,Krone,"Skiles, Little and Monahan",377,Homebuilding,Restaurants,Krone
+LP002953,Male,Yes,3+,Graduate,No,128,360,1,Urban,Y,740,Life Insurance,Euro,Kautzer-Bergstrom,354,Specialty Chemicals,Life Insurance,Euro
+LP002958,Male,No,0,Graduate,No,172,360,1,Rural,Y,790,Military/Government/Technical,Krona,Morissette Group,864,Computer Software: Prepackaged Software,Military/Government/Technical,Krona
+LP002959,Female,Yes,1,Graduate,No,496,360,1,Semiurban,Y,830,Business Services,Yuan Renminbi,Wyman Inc,477,Medical Specialities,Business Services,Yuan Renminbi
+LP002960,Male,Yes,0,Not Graduate,No,,180,1,Urban,N,870,n/a,Zloty,Hand LLC,568,Major Banks,n/a,Zloty
+LP002961,Male,Yes,1,Graduate,No,173,360,1,Semiurban,Y,301,Banks,Franc,Bartell LLC,891,Oil Refining/Marketing,Banks,Franc
+LP002964,Male,Yes,2,Not Graduate,No,157,360,1,Rural,Y,351,Business Services,Yuan Renminbi,"King, Conn and Tillman",609,Major Pharmaceuticals,Business Services,Yuan Renminbi
+LP002974,Male,Yes,0,Graduate,No,108,360,1,Rural,Y,401,n/a,Yuan Renminbi,"Sawayn, Rau and Kertzmann",784,Automotive Aftermarket,n/a,Yuan Renminbi
+LP002978,Female,No,0,Graduate,No,71,360,1,Rural,Y,451,Biotechnology: Biological Products (No Diagnostic Substances),Peso,Mohr Group,748,Shoe Manufacturing,Biotechnology: Biological Products (No Diagnostic Substances),Peso
+LP002979,Male,Yes,3+,Graduate,No,40,180,1,Rural,Y,501,Rental/Leasing Companies,Yuan Renminbi,Gusikowski-Becker,621,EDP Services,Rental/Leasing Companies,Yuan Renminbi
+LP002983,Male,Yes,1,Graduate,No,253,360,1,Urban,Y,551,n/a,Lev,Grimes Group,431,n/a,n/a,Lev
+LP002984,Male,Yes,2,Graduate,No,187,360,1,Urban,Y,601,n/a,Shekel,Blanda Inc,768,Catalog/Specialty Distribution,n/a,Shekel
+LP002990,Female,No,0,Graduate,Yes,133,360,0,Semiurban,N,651,Natural Gas Distribution,Peso,Aufderhar LLC,713,Major Banks,Natural Gas Distribution,Peso
+,,,,,,,,,,,,Environmental Services,Pound,"Lesch, Konopelski and Collins",608,n/a,Environmental Services,Pound
+,,,,,,,,,,,,Commercial Banks,Euro,Renner-Douglas,302,Natural Gas Distribution,Commercial Banks,Euro
+,,,,,,,,,,,,n/a,Boliviano,Schiller-Dicki,660,Broadcasting,n/a,Boliviano
+,,,,,,,,,,,,Farming/Seeds/Milling,Peso,Boyer LLC,308,Other Specialty Stores,Farming/Seeds/Milling,Peso
+,,,,,,,,,,,,Precious Metals,Sol,Gulgowski Inc,421,n/a,Precious Metals,Sol
+,,,,,,,,,,,,Major Banks,Dollar,D'Amore-Reichert,509,Telecommunications Equipment,Major Banks,Dollar
+,,,,,,,,,,,,n/a,Cordoba,"Donnelly, Champlin and Pfeffer",313,Investment Bankers/Brokers/Service,n/a,Cordoba
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi,Kub LLC,389,Life Insurance,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi
+,,,,,,,,,,,,Hotels/Resorts,Kyat,Rutherford Group,590,Major Banks,Hotels/Resorts,Kyat
+,,,,,,,,,,,,Radio And Television Broadcasting And Communications Equipment,Yuan Renminbi,"Swaniawski, Heaney and Pagac",423,Savings Institutions,Radio And Television Broadcasting And Communications Equipment,Yuan Renminbi
+,,,,,,,,,,,,n/a,Yuan Renminbi,Hackett-Fay,572,n/a,n/a,Yuan Renminbi
+,,,,,,,,,,,,Savings Institutions,Rupiah,Kshlerin-Padberg,400,Industrial Specialties,Savings Institutions,Rupiah
+,,,,,,,,,,,,Industrial Machinery/Components,Peso,"Harris, Heathcote and Collier",525,Computer Communications Equipment,Industrial Machinery/Components,Peso
+,,,,,,,,,,,,Major Pharmaceuticals,Euro,Will LLC,653,Broadcasting,Major Pharmaceuticals,Euro
+,,,,,,,,,,,,Major Banks,Shilling,Swaniawski LLC,859,Medical/Dental Instruments,Major Banks,Shilling
+,,,,,,,,,,,,Major Chemicals,Euro,O'Reilly Inc,628,Major Pharmaceuticals,Major Chemicals,Euro
+,,,,,,,,,,,,n/a,Krona,Schuster-Dicki,669,Electric Utilities: Central,n/a,Krona
+,,,,,,,,,,,,Homebuilding,Yuan Renminbi,Jakubowski-Larkin,643,Medical/Dental Instruments,Homebuilding,Yuan Renminbi
+,,,,,,,,,,,,Biotechnology: Commercial Physical & Biological Resarch,Euro,"Schneider, Schumm and Hills",379,Apparel,Biotechnology: Commercial Physical & Biological Resarch,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Real,"Braun, Little and Zboncak",451,Restaurants,Major Pharmaceuticals,Real
+,,,,,,,,,,,,n/a,Rupiah,O'Conner LLC,514,n/a,n/a,Rupiah
+,,,,,,,,,,,,n/a,Hryvnia,Hagenes-Wehner,628,Military/Government/Technical,n/a,Hryvnia
+,,,,,,,,,,,,Industrial Machinery/Components,Yuan Renminbi,"Rolfson, McDermott and Kunde",592,n/a,Industrial Machinery/Components,Yuan Renminbi
+,,,,,,,,,,,,RETAIL: Building Materials,Dollar,Herman LLC,729,Mining & Quarrying of Nonmetallic Minerals (No Fuels),RETAIL: Building Materials,Dollar
+,,,,,,,,,,,,Telecommunications Equipment,Krona,Purdy-Baumbach,328,Oil Refining/Marketing,Telecommunications Equipment,Krona
+,,,,,,,,,,,,n/a,Naira,Wiegand Group,940,Commercial Banks,n/a,Naira
+,,,,,,,,,,,,Property-Casualty Insurers,Rupiah,Beier Inc,857,Medical/Nursing Services,Property-Casualty Insurers,Rupiah
+,,,,,,,,,,,,Television Services,Krone,"Pacocha, Zulauf and Will",562,Medical Specialities,Television Services,Krone
+,,,,,,,,,,,,n/a,Yuan Renminbi,Wyman-Bailey,537,n/a,n/a,Yuan Renminbi
+,,,,,,,,,,,,n/a,Rupee,"Hayes, McClure and Kub",334,Major Banks,n/a,Rupee
+,,,,,,,,,,,,Retail: Computer Software & Peripheral Equipment,Rial,Harber LLC,716,Semiconductors,Retail: Computer Software & Peripheral Equipment,Rial
+,,,,,,,,,,,,Real Estate Investment Trusts,Real,"Wolff, Von and Stiedemann",642,Biotechnology: Laboratory Analytical Instruments,Real Estate Investment Trusts,Real
+,,,,,,,,,,,,Major Pharmaceuticals,Baht,"Legros, Reilly and Pagac",363,Industrial Specialties,Major Pharmaceuticals,Baht
+,,,,,,,,,,,,n/a,Zloty,Hettinger-Fritsch,764,n/a,n/a,Zloty
+,,,,,,,,,,,,Metal Fabrications,Yuan Renminbi,Corkery-Ferry,820,n/a,Metal Fabrications,Yuan Renminbi
+,,,,,,,,,,,,Hotels/Resorts,Krona,"Bednar, Legros and Hackett",781,Metal Fabrications,Hotels/Resorts,Krona
+,,,,,,,,,,,,Finance: Consumer Services,Yen,"Prosacco, Reynolds and Gorczany",466,EDP Services,Finance: Consumer Services,Yen
+,,,,,,,,,,,,n/a,Euro,Satterfield-Hegmann,664,EDP Services,n/a,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Franc,Breitenberg-Leuschke,708,Metal Fabrications,Major Pharmaceuticals,Franc
+,,,,,,,,,,,,Property-Casualty Insurers,Yuan Renminbi,Jerde Inc,851,Semiconductors,Property-Casualty Insurers,Yuan Renminbi
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Dollar,Hermann-Roberts,916,Major Pharmaceuticals,Biotechnology: Biological Products (No Diagnostic Substances),Dollar
+,,,,,,,,,,,,Consumer Electronics/Video Chains,Rupiah,Streich Inc,371,Restaurants,Consumer Electronics/Video Chains,Rupiah
+,,,,,,,,,,,,Medical/Dental Instruments,Kuna,"Hickle, Mohr and Borer",507,Investment Managers,Medical/Dental Instruments,Kuna
+,,,,,,,,,,,,"Computer Software: Programming, Data Processing",Rupiah,"Schoen, Johns and Larkin",435,Finance: Consumer Services,"Computer Software: Programming, Data Processing",Rupiah
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Heaney, Krajcik and Huel",631,Farming/Seeds/Milling,n/a,Yuan Renminbi
+,,,,,,,,,,,,Marine Transportation,Yuan Renminbi,Hane Group,911,Major Banks,Marine Transportation,Yuan Renminbi
+,,,,,,,,,,,,Major Pharmaceuticals,Peso,Turner and Sons,902,Major Banks,Major Pharmaceuticals,Peso
+,,,,,,,,,,,,n/a,Dollar,"Carroll, Reichel and Huels",548,Power Generation,n/a,Dollar
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Schuppe, Larson and Welch",331,Property-Casualty Insurers,n/a,Yuan Renminbi
+,,,,,,,,,,,,Auto Manufacturing,Lempira,Windler Group,934,Catalog/Specialty Distribution,Auto Manufacturing,Lempira
+,,,,,,,,,,,,Major Banks,Euro,Smith-Considine,538,n/a,Major Banks,Euro
+,,,,,,,,,,,,EDP Services,Rupiah,"Ryan, Fay and Friesen",942,Real Estate Investment Trusts,EDP Services,Rupiah
+,,,,,,,,,,,,n/a,Ruble,Herman-Purdy,612,n/a,n/a,Ruble
+,,,,,,,,,,,,Specialty Chemicals,Dram,Boyer and Sons,801,Telecommunications Equipment,Specialty Chemicals,Dram
+,,,,,,,,,,,,Major Chemicals,Rupiah,Koelpin-Bahringer,461,Aerospace,Major Chemicals,Rupiah
+,,,,,,,,,,,,Electrical Products,Yuan Renminbi,Smitham and Sons,595,Real Estate Investment Trusts,Electrical Products,Yuan Renminbi
+,,,,,,,,,,,,EDP Services,Rupiah,"Bahringer, Langosh and Batz",587,n/a,EDP Services,Rupiah
+,,,,,,,,,,,,Major Pharmaceuticals,Rupiah,Smitham-McKenzie,742,Major Banks,Major Pharmaceuticals,Rupiah
+,,,,,,,,,,,,Real Estate Investment Trusts,Rial,"Renner, Johnson and Cole",676,Real Estate Investment Trusts,Real Estate Investment Trusts,Rial
+,,,,,,,,,,,,n/a,Krona,Lakin-Yundt,445,Electric Utilities: Central,n/a,Krona
+,,,,,,,,,,,,n/a,Peso,"Russel, Gerhold and Daniel",621,Major Banks,n/a,Peso
+,,,,,,,,,,,,n/a,Yuan Renminbi,Rosenbaum and Sons,857,Medical/Dental Instruments,n/a,Yuan Renminbi
+,,,,,,,,,,,,Business Services,Rupiah,Vandervort LLC,387,n/a,Business Services,Rupiah
+,,,,,,,,,,,,n/a,Ruble,Tremblay-Kessler,355,Industrial Machinery/Components,n/a,Ruble
+,,,,,,,,,,,,Packaged Foods,Peso,Conroy-Nicolas,545,Real Estate,Packaged Foods,Peso
+,,,,,,,,,,,,Military/Government/Technical,Yuan Renminbi,"Ledner, Hamill and Pollich",752,Real Estate Investment Trusts,Military/Government/Technical,Yuan Renminbi
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Ruble,Gottlieb-Bashirian,318,Biotechnology: Laboratory Analytical Instruments,Computer Software: Prepackaged Software,Ruble
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi,"Dibbert, Dach and Smith",709,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Ruble,Hansen LLC,690,Business Services,Major Banks,Ruble
+,,,,,,,,,,,,n/a,Real,"Parisian, Bartell and McCullough",791,Major Banks,n/a,Real
+,,,,,,,,,,,,n/a,Koruna,"Dickens, Kilback and Strosin",656,Professional Services,n/a,Koruna
+,,,,,,,,,,,,Business Services,Baht,"McKenzie, Zulauf and Bosco",795,EDP Services,Business Services,Baht
+,,,,,,,,,,,,Industrial Machinery/Components,Yuan Renminbi,Skiles Group,362,n/a,Industrial Machinery/Components,Yuan Renminbi
+,,,,,,,,,,,,n/a,Euro,"Streich, Dach and Jacobi",352,Trucking Freight/Courier Services,n/a,Euro
+,,,,,,,,,,,,n/a,Kwacha,Schimmel-Mante,421,Industrial Machinery/Components,n/a,Kwacha
+,,,,,,,,,,,,Medical/Dental Instruments,Zloty,Schiller LLC,512,Computer Software: Prepackaged Software,Medical/Dental Instruments,Zloty
+,,,,,,,,,,,,Precious Metals,Yuan Renminbi,"Conn, Auer and Ebert",439,n/a,Precious Metals,Yuan Renminbi
+,,,,,,,,,,,,Industrial Specialties,Dollar,Turcotte and Sons,342,Oil & Gas Production,Industrial Specialties,Dollar
+,,,,,,,,,,,,n/a,Euro,Homenick-Franecki,779,n/a,n/a,Euro
+,,,,,,,,,,,,"Computer Software: Programming, Data Processing",Euro,Stokes and Sons,947,n/a,"Computer Software: Programming, Data Processing",Euro
+,,,,,,,,,,,,Hospital/Nursing Management,Real,Schuster-Thiel,373,EDP Services,Hospital/Nursing Management,Real
+,,,,,,,,,,,,Agricultural Chemicals,Pula,"Jakubowski, Carroll and Kunde",331,Beverages (Production/Distribution),Agricultural Chemicals,Pula
+,,,,,,,,,,,,Major Pharmaceuticals,Kina,"Mayer, Toy and Stehr",701,Major Banks,Major Pharmaceuticals,Kina
+,,,,,,,,,,,,Electrical Products,Real,Mosciski Group,448,Commercial Banks,Electrical Products,Real
+,,,,,,,,,,,,Other Specialty Stores,Euro,Labadie-Green,784,Natural Gas Distribution,Other Specialty Stores,Euro
+,,,,,,,,,,,,Industrial Machinery/Components,Real,Johns-Lesch,713,Telecommunications Equipment,Industrial Machinery/Components,Real
+,,,,,,,,,,,,n/a,Dong,Heidenreich-Block,320,Medical/Nursing Services,n/a,Dong
+,,,,,,,,,,,,Telecommunications Equipment,Tugrik,"Haag, Rice and Bahringer",677,n/a,Telecommunications Equipment,Tugrik
+,,,,,,,,,,,,Water Supply,Yuan Renminbi,"Veum, Christiansen and Sawayn",625,Major Pharmaceuticals,Water Supply,Yuan Renminbi
+,,,,,,,,,,,,Specialty Insurers,Krona,"Wuckert, Leannon and Veum",645,n/a,Specialty Insurers,Krona
+,,,,,,,,,,,,Precious Metals,Shilling,Langworth-Powlowski,870,Telecommunications Equipment,Precious Metals,Shilling
+,,,,,,,,,,,,n/a,Peso,Bergstrom-Wuckert,359,n/a,n/a,Peso
+,,,,,,,,,,,,n/a,Real,Conn-Weimann,925,Major Pharmaceuticals,n/a,Real
+,,,,,,,,,,,,Major Pharmaceuticals,Peso,Gorczany Group,795,n/a,Major Pharmaceuticals,Peso
+,,,,,,,,,,,,Metal Fabrications,Koruna,Raynor Group,576,Auto Parts:O.E.M.,Metal Fabrications,Koruna
+,,,,,,,,,,,,n/a,Rial,Boyle-Jerde,505,Major Banks,n/a,Rial
+,,,,,,,,,,,,Investment Managers,Rupiah,Johnston-Schumm,535,n/a,Investment Managers,Rupiah
+,,,,,,,,,,,,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Rupiah,Mertz LLC,382,Diversified Commercial Services,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Rupiah
+,,,,,,,,,,,,Semiconductors,Lempira,Lemke-Blick,779,n/a,Semiconductors,Lempira
+,,,,,,,,,,,,Savings Institutions,Zloty,Donnelly Group,877,Medical/Dental Instruments,Savings Institutions,Zloty
+,,,,,,,,,,,,Major Pharmaceuticals,Dinar,Kuvalis and Sons,531,Savings Institutions,Major Pharmaceuticals,Dinar
+,,,,,,,,,,,,n/a,Peso,"Sporer, Donnelly and Turner",578,Semiconductors,n/a,Peso
+,,,,,,,,,,,,Military/Government/Technical,Zloty,"Larson, Littel and Tremblay",834,Clothing/Shoe/Accessory Stores,Military/Government/Technical,Zloty
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Sanford, Morissette and Tromp",884,Metal Fabrications,n/a,Yuan Renminbi
+,,,,,,,,,,,,Water Supply,Peso,"Baumbach, Kuhn and Swift",672,n/a,Water Supply,Peso
+,,,,,,,,,,,,Auto Manufacturing,Euro,Gibson Group,593,EDP Services,Auto Manufacturing,Euro
+,,,,,,,,,,,,Real Estate,Euro,Boehm Group,340,Telecommunications Equipment,Real Estate,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Ruble,Hintz LLC,397,Telecommunications Equipment,Major Pharmaceuticals,Ruble
+,,,,,,,,,,,,n/a,Sol,"Stamm, Bednar and Cruickshank",660,Commercial Banks,n/a,Sol
+,,,,,,,,,,,,Major Banks,Rupiah,"Schumm, Schowalter and Bradtke",609,Major Pharmaceuticals,Major Banks,Rupiah
+,,,,,,,,,,,,Major Banks,Yuan Renminbi,Kassulke LLC,775,Banks,Major Banks,Yuan Renminbi
+,,,,,,,,,,,,Oil & Gas Production,Rupiah,"Gutmann, Runte and Kiehn",798,Marine Transportation,Oil & Gas Production,Rupiah
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Dollar,Wolf-Ferry,352,Marine Transportation,Computer Software: Prepackaged Software,Dollar
+,,,,,,,,,,,,Restaurants,Euro,"Kshlerin, Feest and Waters",451,Beverages (Production/Distribution),Restaurants,Euro
+,,,,,,,,,,,,Oil & Gas Production,Rupiah,"Mitchell, Bartoletti and O'Connell",394,Metal Fabrications,Oil & Gas Production,Rupiah
+,,,,,,,,,,,,Air Freight/Delivery Services,Peso,Gerhold and Sons,734,Industrial Machinery/Components,Air Freight/Delivery Services,Peso
+,,,,,,,,,,,,EDP Services,Som,"Wyman, Dach and Johnson",616,Other Consumer Services,EDP Services,Som
+,,,,,,,,,,,,Telecommunications Equipment,Zloty,Bergnaum-Jones,487,Hotels/Resorts,Telecommunications Equipment,Zloty
+,,,,,,,,,,,,Real Estate Investment Trusts,Rupiah,Grady-Baumbach,475,Hospital/Nursing Management,Real Estate Investment Trusts,Rupiah
+,,,,,,,,,,,,Property-Casualty Insurers,Yuan Renminbi,"Koepp, Mayert and Reinger",403,Investment Managers,Property-Casualty Insurers,Yuan Renminbi
+,,,,,,,,,,,,Advertising,Ruble,Hagenes LLC,450,EDP Services,Advertising,Ruble
+,,,,,,,,,,,,Industrial Machinery/Components,Rupiah,Mayert LLC,567,n/a,Industrial Machinery/Components,Rupiah
+,,,,,,,,,,,,Biotechnology: Commercial Physical & Biological Resarch,Yuan Renminbi,"Waelchi, Little and Graham",579,Restaurants,Biotechnology: Commercial Physical & Biological Resarch,Yuan Renminbi
+,,,,,,,,,,,,Property-Casualty Insurers,Dollar,Casper-Bogisich,511,n/a,Property-Casualty Insurers,Dollar
+,,,,,,,,,,,,Real Estate,Ruble,"Kling, Goyette and McClure",390,Biotechnology: Biological Products (No Diagnostic Substances),Real Estate,Ruble
+,,,,,,,,,,,,Broadcasting,Dinar,Medhurst-Larson,726,Semiconductors,Broadcasting,Dinar
+,,,,,,,,,,,,Commercial Banks,Peso,"Ullrich, Raynor and Casper",818,n/a,Commercial Banks,Peso
+,,,,,,,,,,,,n/a,Franc,Lind Inc,640,n/a,n/a,Franc
+,,,,,,,,,,,,Business Services,Zloty,Wyman-Cole,751,Commercial Banks,Business Services,Zloty
+,,,,,,,,,,,,Agricultural Chemicals,Ruble,"Champlin, Nader and Ratke",337,Building operators,Agricultural Chemicals,Ruble
+,,,,,,,,,,,,Major Banks,Rupiah,Huel-Schroeder,832,Business Services,Major Banks,Rupiah
+,,,,,,,,,,,,Semiconductors,Yuan Renminbi,Zulauf-Lowe,579,n/a,Semiconductors,Yuan Renminbi
+,,,,,,,,,,,,Hospital/Nursing Management,Yuan Renminbi,Gottlieb-Cronin,476,Packaged Foods,Hospital/Nursing Management,Yuan Renminbi
+,,,,,,,,,,,,Diversified Commercial Services,Euro,Swift-Konopelski,796,Retail: Computer Software & Peripheral Equipment,Diversified Commercial Services,Euro
+,,,,,,,,,,,,n/a,Rupee,Carroll Inc,870,n/a,n/a,Rupee
+,,,,,,,,,,,,Other Specialty Stores,Euro,"Schiller, Pfannerstill and Senger",683,n/a,Other Specialty Stores,Euro
+,,,,,,,,,,,,n/a,Rand,"Johnston, Reichel and Wunsch",440,Real Estate Investment Trusts,n/a,Rand
+,,,,,,,,,,,,Semiconductors,Baht,Morissette LLC,761,Banks,Semiconductors,Baht
+,,,,,,,,,,,,n/a,Yuan Renminbi,Goodwin and Sons,837,Real Estate Investment Trusts,n/a,Yuan Renminbi
+,,,,,,,,,,,,Electronic Components,Ruble,"Huel, Greenholt and Kris",505,Real Estate,Electronic Components,Ruble
+,,,,,,,,,,,,n/a,Sol,"D'Amore, Farrell and O'Hara",523,Electric Utilities: Central,n/a,Sol
+,,,,,,,,,,,,Electric Utilities: Central,Yuan Renminbi,Fadel-Wehner,335,Home Furnishings,Electric Utilities: Central,Yuan Renminbi
+,,,,,,,,,,,,Packaged Foods,Euro,"Funk, Harvey and Reynolds",770,n/a,Packaged Foods,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Euro,"Boehm, Murazik and Cormier",921,Biotechnology: Biological Products (No Diagnostic Substances),Major Pharmaceuticals,Euro
+,,,,,,,,,,,,n/a,Euro,Murray LLC,842,Major Banks,n/a,Euro
+,,,,,,,,,,,,n/a,Rupiah,"Buckridge, Watsica and Bednar",584,Real Estate Investment Trusts,n/a,Rupiah
+,,,,,,,,,,,,Finance: Consumer Services,Ruble,Fay-Yundt,786,Military/Government/Technical,Finance: Consumer Services,Ruble
+,,,,,,,,,,,,Telecommunications Equipment,Yuan Renminbi,"Schimmel, Becker and Kautzer",752,Mining & Quarrying of Nonmetallic Minerals (No Fuels),Telecommunications Equipment,Yuan Renminbi
+,,,,,,,,,,,,Major Pharmaceuticals,Hryvnia,MacGyver-Jakubowski,811,Industrial Machinery/Components,Major Pharmaceuticals,Hryvnia
+,,,,,,,,,,,,Major Pharmaceuticals,Yuan Renminbi,Klocko-Sawayn,654,Major Banks,Major Pharmaceuticals,Yuan Renminbi
+,,,,,,,,,,,,n/a,Peso,Fahey-Graham,813,Savings Institutions,n/a,Peso
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Dollar,"Gulgowski, Hansen and Runolfsdottir",554,n/a,Computer Software: Prepackaged Software,Dollar
+,,,,,,,,,,,,Construction/Ag Equipment/Trucks,Real,Mann LLC,641,Industrial Machinery/Components,Construction/Ag Equipment/Trucks,Real
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Yuan Renminbi,Weimann-Cormier,537,Major Banks,Computer Software: Prepackaged Software,Yuan Renminbi
+,,,,,,,,,,,,Tobacco,Hryvnia,"Keeling, Cassin and Schulist",524,Home Furnishings,Tobacco,Hryvnia
+,,,,,,,,,,,,Finance: Consumer Services,Rupiah,Weber-Bednar,760,Major Pharmaceuticals,Finance: Consumer Services,Rupiah
+,,,,,,,,,,,,n/a,Tenge,Hegmann-Beatty,916,Major Chemicals,n/a,Tenge
+,,,,,,,,,,,,Medical/Nursing Services,Yuan Renminbi,"Bashirian, Ledner and Heidenreich",421,Commercial Banks,Medical/Nursing Services,Yuan Renminbi
+,,,,,,,,,,,,Medical Specialities,Ariary,"Mayert, Brakus and Kihn",678,Oilfield Services/Equipment,Medical Specialities,Ariary
+,,,,,,,,,,,,Semiconductors,Yuan Renminbi,Rosenbaum-Pagac,488,n/a,Semiconductors,Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Hryvnia,Moen-Connelly,672,Precious Metals,Major Banks,Hryvnia
+,,,,,,,,,,,,Metal Fabrications,Peso,Haag LLC,612,Transportation Services,Metal Fabrications,Peso
+,,,,,,,,,,,,Package Goods/Cosmetics,Euro,Spinka-Wolff,799,Other Consumer Services,Package Goods/Cosmetics,Euro
+,,,,,,,,,,,,Radio And Television Broadcasting And Communications Equipment,Euro,Carter Group,419,Professional Services,Radio And Television Broadcasting And Communications Equipment,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Zloty,"Yost, Lindgren and Haag",510,Professional Services,Major Pharmaceuticals,Zloty
+,,,,,,,,,,,,Catalog/Specialty Distribution,Zloty,Sauer-Bogan,753,Electronic Components,Catalog/Specialty Distribution,Zloty
+,,,,,,,,,,,,n/a,Yen,"Sauer, Rohan and Armstrong",892,n/a,n/a,Yen
+,,,,,,,,,,,,Medical Specialities,Peso,"Hermiston, Stroman and Grant",929,Aerospace,Medical Specialities,Peso
+,,,,,,,,,,,,Medical/Dental Instruments,Yuan Renminbi,Kerluke Inc,601,Major Banks,Medical/Dental Instruments,Yuan Renminbi
+,,,,,,,,,,,,n/a,Euro,Barrows LLC,366,Hospital/Nursing Management,n/a,Euro
+,,,,,,,,,,,,Major Banks,Yuan Renminbi,Fisher Inc,681,Consumer Specialties,Major Banks,Yuan Renminbi
+,,,,,,,,,,,,Steel/Iron Ore,Yen,Gutmann Group,369,Telecommunications Equipment,Steel/Iron Ore,Yen
+,,,,,,,,,,,,n/a,Yuan Renminbi,Hoppe LLC,745,Precious Metals,n/a,Yuan Renminbi
+,,,,,,,,,,,,Natural Gas Distribution,Yuan Renminbi,Kunze-Cartwright,526,Banks,Natural Gas Distribution,Yuan Renminbi
+,,,,,,,,,,,,EDP Services,Tugrik,"Prosacco, Hauck and Russel",683,n/a,EDP Services,Tugrik
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Rial,Flatley and Sons,790,Beverages (Production/Distribution),Computer Software: Prepackaged Software,Rial
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Peso,"Wiza, Lueilwitz and Kihn",907,Hotels/Resorts,Biotechnology: Biological Products (No Diagnostic Substances),Peso
+,,,,,,,,,,,,Paper,Marka,Moen Inc,387,Shoe Manufacturing,Paper,Marka
+,,,,,,,,,,,,n/a,Hryvnia,"Konopelski, Kub and Davis",481,n/a,n/a,Hryvnia
+,,,,,,,,,,,,n/a,Rial,"Metz, Schaefer and Welch",631,Major Banks,n/a,Rial
+,,,,,,,,,,,,Medical/Dental Instruments,Leone,Senger Group,470,Finance: Consumer Services,Medical/Dental Instruments,Leone
+,,,,,,,,,,,,n/a,Euro,Turner Inc,898,Specialty Chemicals,n/a,Euro
+,,,,,,,,,,,,Commercial Banks,Peso,"Torp, Stark and Okuneva",710,Specialty Chemicals,Commercial Banks,Peso
+,,,,,,,,,,,,n/a,Yen,"Denesik, Bauch and Mante",760,Major Pharmaceuticals,n/a,Yen
+,,,,,,,,,,,,Electrical Products,Ruble,"Runolfsdottir, Smitham and Marvin",638,n/a,Electrical Products,Ruble
+,,,,,,,,,,,,Power Generation,Yuan Renminbi,Kling-Smitham,820,n/a,Power Generation,Yuan Renminbi
+,,,,,,,,,,,,Plastic Products,Dollar,Mraz-Cummings,547,EDP Services,Plastic Products,Dollar
+,,,,,,,,,,,,Rental/Leasing Companies,Hryvnia,"Kutch, Ruecker and Abshire",350,Oil & Gas Production,Rental/Leasing Companies,Hryvnia
+,,,,,,,,,,,,Business Services,Dollar,Schowalter-Bogan,657,Advertising,Business Services,Dollar
+,,,,,,,,,,,,Savings Institutions,Yuan Renminbi,"Robel, Wehner and Connelly",770,n/a,Savings Institutions,Yuan Renminbi
+,,,,,,,,,,,,Environmental Services,Yuan Renminbi,Kling-Lind,380,Television Services,Environmental Services,Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Peso,"Lang, Schmidt and Heidenreich",742,EDP Services,Major Banks,Peso
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Krona,O'Connell-Schaden,326,Telecommunications Equipment,Biotechnology: Biological Products (No Diagnostic Substances),Krona
+,,,,,,,,,,,,Major Pharmaceuticals,Euro,"Runolfsson, Smith and Koss",690,Major Pharmaceuticals,Major Pharmaceuticals,Euro
+,,,,,,,,,,,,Real Estate Investment Trusts,Ruble,Kassulke-Stark,391,n/a,Real Estate Investment Trusts,Ruble
+,,,,,,,,,,,,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Ruble,Stamm Group,344,Major Banks,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Ruble
+,,,,,,,,,,,,n/a,Yuan Renminbi,"VonRueden, Cartwright and Robel",694,Department/Specialty Retail Stores,n/a,Yuan Renminbi
+,,,,,,,,,,,,Major Pharmaceuticals,Yen,Blanda Inc,414,Precious Metals,Major Pharmaceuticals,Yen
+,,,,,,,,,,,,Real Estate Investment Trusts,Zloty,O'Connell-Kunze,378,Oil & Gas Production,Real Estate Investment Trusts,Zloty
+,,,,,,,,,,,,"Computer Software: Programming, Data Processing",Yuan Renminbi,Adams-Mueller,807,Major Pharmaceuticals,"Computer Software: Programming, Data Processing",Yuan Renminbi
+,,,,,,,,,,,,Telecommunications Equipment,Dollar,"Schamberger, Mann and Parisian",940,Metal Fabrications,Telecommunications Equipment,Dollar
+,,,,,,,,,,,,Medical Specialities,Yuan Renminbi,"Kihn, Macejkovic and Altenwerth",387,Business Services,Medical Specialities,Yuan Renminbi
+,,,,,,,,,,,,n/a,Baht,Ortiz Inc,870,Environmental Services,n/a,Baht
+,,,,,,,,,,,,Banks,Rupiah,O'Connell-Ebert,799,Metal Fabrications,Banks,Rupiah
+,,,,,,,,,,,,Industrial Machinery/Components,Yuan Renminbi,"Quitzon, Ziemann and Powlowski",921,n/a,Industrial Machinery/Components,Yuan Renminbi
+,,,,,,,,,,,,n/a,Shilling,Mante LLC,627,n/a,n/a,Shilling
+,,,,,,,,,,,,Other Consumer Services,Dollar,Bailey Group,399,Life Insurance,Other Consumer Services,Dollar
+,,,,,,,,,,,,Banks,Dollar,Altenwerth Inc,407,Electrical Products,Banks,Dollar
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Euro,"Toy, Ondricka and Denesik",861,RETAIL: Building Materials,Computer Software: Prepackaged Software,Euro
+,,,,,,,,,,,,Major Pharmaceuticals,Ruble,Schaden-Kovacek,381,Electric Utilities: Central,Major Pharmaceuticals,Ruble
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Harvey, Auer and Schoen",838,Computer Software: Prepackaged Software,n/a,Yuan Renminbi
+,,,,,,,,,,,,Investment Managers,Rupiah,Hammes LLC,682,Containers/Packaging,Investment Managers,Rupiah
+,,,,,,,,,,,,Steel/Iron Ore,Yuan Renminbi,Spinka-Beer,418,Specialty Chemicals,Steel/Iron Ore,Yuan Renminbi
+,,,,,,,,,,,,Investment Bankers/Brokers/Service,Marka,"Ritchie, Greenholt and Wyman",754,Major Pharmaceuticals,Investment Bankers/Brokers/Service,Marka
+,,,,,,,,,,,,Major Banks,Ariary,Ward-Deckow,386,Other Consumer Services,Major Banks,Ariary
+,,,,,,,,,,,,n/a,Dong,Greenfelder LLC,364,Major Pharmaceuticals,n/a,Dong
+,,,,,,,,,,,,Accident &Health Insurance,Rial,"Leuschke, Morar and Schroeder",818,n/a,Accident &Health Insurance,Rial
+,,,,,,,,,,,,Major Pharmaceuticals,Rupiah,Harvey LLC,311,Specialty Chemicals,Major Pharmaceuticals,Rupiah
+,,,,,,,,,,,,Catalog/Specialty Distribution,Rupiah,Ruecker Inc,466,n/a,Catalog/Specialty Distribution,Rupiah
+,,,,,,,,,,,,Consumer Electronics/Appliances,Won,Runolfsdottir Inc,325,n/a,Consumer Electronics/Appliances,Won
+,,,,,,,,,,,,n/a,Dollar,Gislason and Sons,637,Food Distributors,n/a,Dollar
+,,,,,,,,,,,,n/a,Hryvnia,"D'Amore, Nicolas and Hyatt",639,n/a,n/a,Hryvnia
+,,,,,,,,,,,,n/a,Yuan Renminbi,Bayer LLC,708,n/a,n/a,Yuan Renminbi
+,,,,,,,,,,,,Real Estate Investment Trusts,Peso,Monahan LLC,795,n/a,Real Estate Investment Trusts,Peso
+,,,,,,,,,,,,n/a,Peso,"Zulauf, Littel and Jones",520,Coal Mining,n/a,Peso
+,,,,,,,,,,,,"Computer Software: Programming, Data Processing",Peso,Rempel-Ullrich,459,Other Consumer Services,"Computer Software: Programming, Data Processing",Peso
+,,,,,,,,,,,,Computer peripheral equipment,Ruble,"Daniel, Beier and Goldner",472,n/a,Computer peripheral equipment,Ruble
+,,,,,,,,,,,,Beverages (Production/Distribution),Rial,Rosenbaum-Rath,879,Oil Refining/Marketing,Beverages (Production/Distribution),Rial
+,,,,,,,,,,,,Medical/Nursing Services,Euro,Prosacco LLC,686,Farming/Seeds/Milling,Medical/Nursing Services,Euro
+,,,,,,,,,,,,Agricultural Chemicals,Yuan Renminbi,Stanton Inc,635,n/a,Agricultural Chemicals,Yuan Renminbi
+,,,,,,,,,,,,n/a,Real,Greenholt LLC,741,Property-Casualty Insurers,n/a,Real
+,,,,,,,,,,,,Savings Institutions,Peso,Pouros and Sons,637,n/a,Savings Institutions,Peso
+,,,,,,,,,,,,Major Banks,Peso,Wiegand-Walter,671,Other Specialty Stores,Major Banks,Peso
+,,,,,,,,,,,,Medical/Dental Instruments,Euro,Bergstrom-Gleichner,724,Farming/Seeds/Milling,Medical/Dental Instruments,Euro
+,,,,,,,,,,,,Semiconductors,Real,Hodkiewicz and Sons,462,Finance: Consumer Services,Semiconductors,Real
+,,,,,,,,,,,,Industrial Machinery/Components,Dollar,Braun LLC,644,Major Banks,Industrial Machinery/Components,Dollar
+,,,,,,,,,,,,Business Services,Koruna,Lebsack Inc,453,Metal Fabrications,Business Services,Koruna
+,,,,,,,,,,,,Industrial Machinery/Components,Rupiah,"Rempel, Turcotte and Kessler",404,Major Pharmaceuticals,Industrial Machinery/Components,Rupiah
+,,,,,,,,,,,,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi,"Collins, Howe and Boyle",410,n/a,Biotechnology: Biological Products (No Diagnostic Substances),Yuan Renminbi
+,,,,,,,,,,,,Investment Bankers/Brokers/Service,Real,Waters-Lehner,564,n/a,Investment Bankers/Brokers/Service,Real
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Rupiah,Douglas LLC,554,Real Estate Investment Trusts,Computer Software: Prepackaged Software,Rupiah
+,,,,,,,,,,,,n/a,Yuan Renminbi,Rau-Schimmel,719,Specialty Chemicals,n/a,Yuan Renminbi
+,,,,,,,,,,,,Transportation Services,Manat,Hermiston-Hyatt,416,n/a,Transportation Services,Manat
+,,,,,,,,,,,,Marine Transportation,Ruble,Ruecker-Rath,847,Metal Fabrications,Marine Transportation,Ruble
+,,,,,,,,,,,,Savings Institutions,Dram,Bernier-Fahey,638,Diversified Commercial Services,Savings Institutions,Dram
+,,,,,,,,,,,,Real Estate Investment Trusts,Somoni,"Weber, Rohan and Gusikowski",437,Property-Casualty Insurers,Real Estate Investment Trusts,Somoni
+,,,,,,,,,,,,Real Estate Investment Trusts,Real,"Cremin, Goodwin and Vandervort",822,Major Pharmaceuticals,Real Estate Investment Trusts,Real
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Euro,"Ortiz, Daniel and Fadel",677,Medical Specialities,Computer Software: Prepackaged Software,Euro
+,,,,,,,,,,,,Hotels/Resorts,Yuan Renminbi,Kessler Inc,523,Railroads,Hotels/Resorts,Yuan Renminbi
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Rice, Nitzsche and Lueilwitz",359,Business Services,n/a,Yuan Renminbi
+,,,,,,,,,,,,Broadcasting,Yuan Renminbi,Corkery and Sons,379,Telecommunications Equipment,Broadcasting,Yuan Renminbi
+,,,,,,,,,,,,Telecommunications Equipment,Euro,Anderson LLC,553,n/a,Telecommunications Equipment,Euro
+,,,,,,,,,,,,Industrial Specialties,Yuan Renminbi,Rodriguez LLC,397,Major Pharmaceuticals,Industrial Specialties,Yuan Renminbi
+,,,,,,,,,,,,EDP Services,Sol,DuBuque-Maggio,809,Diversified Commercial Services,EDP Services,Sol
+,,,,,,,,,,,,Major Pharmaceuticals,Euro,"Kuphal, Bauch and Parisian",828,Computer Software: Prepackaged Software,Major Pharmaceuticals,Euro
+,,,,,,,,,,,,Telecommunications Equipment,Rupee,"Cremin, Oberbrunner and McClure",632,Natural Gas Distribution,Telecommunications Equipment,Rupee
+,,,,,,,,,,,,EDP Services,Sol,Carter-Grady,344,Major Pharmaceuticals,EDP Services,Sol
+,,,,,,,,,,,,Commercial Banks,Euro,"Willms, Lockman and Bradtke",907,Package Goods/Cosmetics,Commercial Banks,Euro
+,,,,,,,,,,,,Industrial Machinery/Components,Dollar,Metz LLC,621,n/a,Industrial Machinery/Components,Dollar
+,,,,,,,,,,,,Real Estate Investment Trusts,Peso,Schamberger-Schaefer,644,Hospital/Nursing Management,Real Estate Investment Trusts,Peso
+,,,,,,,,,,,,Metal Fabrications,Ruble,"Fahey, Marks and Von",530,Electric Utilities: Central,Metal Fabrications,Ruble
+,,,,,,,,,,,,Office Equipment/Supplies/Services,Koruna,Keeling Group,455,n/a,Office Equipment/Supplies/Services,Koruna
+,,,,,,,,,,,,n/a,Hryvnia,Orn Group,386,n/a,n/a,Hryvnia
+,,,,,,,,,,,,EDP Services,Yuan Renminbi,Funk-Hills,308,n/a,EDP Services,Yuan Renminbi
+,,,,,,,,,,,,Business Services,Hryvnia,Klein-Effertz,793,Apparel,Business Services,Hryvnia
+,,,,,,,,,,,,n/a,Rupee,"Kling, Walter and Daugherty",654,Power Generation,n/a,Rupee
+,,,,,,,,,,,,n/a,Real,Kirlin LLC,688,Other Consumer Services,n/a,Real
+,,,,,,,,,,,,Industrial Specialties,Ruble,"Bernhard, Beahan and Rohan",931,Major Banks,Industrial Specialties,Ruble
+,,,,,,,,,,,,Major Chemicals,Rupiah,Halvorson and Sons,490,Containers/Packaging,Major Chemicals,Rupiah
+,,,,,,,,,,,,n/a,Sol,Batz LLC,414,n/a,n/a,Sol
+,,,,,,,,,,,,Hotels/Resorts,Balboa,Yundt and Sons,620,Telecommunications Equipment,Hotels/Resorts,Balboa
+,,,,,,,,,,,,EDP Services,Real,Kozey-Little,676,Major Pharmaceuticals,EDP Services,Real
+,,,,,,,,,,,,Catalog/Specialty Distribution,Yuan Renminbi,"Langosh, Farrell and O'Connell",415,Other Specialty Stores,Catalog/Specialty Distribution,Yuan Renminbi
+,,,,,,,,,,,,Finance: Consumer Services,Ruble,Kshlerin-Grady,430,Commercial Banks,Finance: Consumer Services,Ruble
+,,,,,,,,,,,,Natural Gas Distribution,Kip,"Ullrich, Feil and Grimes",333,n/a,Natural Gas Distribution,Kip
+,,,,,,,,,,,,Steel/Iron Ore,Peso,Brakus LLC,522,Real Estate Investment Trusts,Steel/Iron Ore,Peso
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Dollar,"Littel, Greenfelder and McKenzie",833,Radio And Television Broadcasting And Communications Equipment,Computer Software: Prepackaged Software,Dollar
+,,,,,,,,,,,,Paper,Euro,Greenfelder Inc,947,Mining & Quarrying of Nonmetallic Minerals (No Fuels),Paper,Euro
+,,,,,,,,,,,,Natural Gas Distribution,Rupiah,Bode-Harber,811,n/a,Natural Gas Distribution,Rupiah
+,,,,,,,,,,,,Natural Gas Distribution,Peso,Heaney-Beahan,441,Telecommunications Equipment,Natural Gas Distribution,Peso
+,,,,,,,,,,,,Electric Utilities: Central,Euro,Kertzmann-McClure,401,Investment Managers,Electric Utilities: Central,Euro
+,,,,,,,,,,,,Business Services,Hryvnia,Wunsch and Sons,805,n/a,Business Services,Hryvnia
+,,,,,,,,,,,,Business Services,Rupiah,McDermott Inc,759,n/a,Business Services,Rupiah
+,,,,,,,,,,,,Computer peripheral equipment,Krona,Gislason Inc,751,Other Consumer Services,Computer peripheral equipment,Krona
+,,,,,,,,,,,,Life Insurance,Peso,Gleichner-Marvin,917,Other Consumer Services,Life Insurance,Peso
+,,,,,,,,,,,,n/a,Franc,Gorczany Group,351,n/a,n/a,Franc
+,,,,,,,,,,,,n/a,Ruble,Hagenes-Bauch,370,Oilfield Services/Equipment,n/a,Ruble
+,,,,,,,,,,,,Real Estate,Rupiah,Schuster and Sons,491,Real Estate Investment Trusts,Real Estate,Rupiah
+,,,,,,,,,,,,Semiconductors,Rupiah,Klocko Inc,796,Real Estate Investment Trusts,Semiconductors,Rupiah
+,,,,,,,,,,,,Industrial Machinery/Components,Yen,Murphy-Purdy,417,n/a,Industrial Machinery/Components,Yen
+,,,,,,,,,,,,Aerospace,Yuan Renminbi,Schumm-Gottlieb,548,Major Banks,Aerospace,Yuan Renminbi
+,,,,,,,,,,,,Beverages (Production/Distribution),Real,Schimmel and Sons,329,Electrical Products,Beverages (Production/Distribution),Real
+,,,,,,,,,,,,Major Pharmaceuticals,Rial,O'Kon-Carter,666,Medical/Nursing Services,Major Pharmaceuticals,Rial
+,,,,,,,,,,,,"Computer Software: Programming, Data Processing",Dong,Robel-Schaden,656,n/a,"Computer Software: Programming, Data Processing",Dong
+,,,,,,,,,,,,Oil Refining/Marketing,Rupiah,Marks Group,363,n/a,Oil Refining/Marketing,Rupiah
+,,,,,,,,,,,,n/a,Rial,Lindgren-Parker,630,Consumer: Greeting Cards,n/a,Rial
+,,,,,,,,,,,,Television Services,Peso,Auer LLC,559,n/a,Television Services,Peso
+,,,,,,,,,,,,Environmental Services,Yuan Renminbi,Hettinger Inc,335,Major Pharmaceuticals,Environmental Services,Yuan Renminbi
+,,,,,,,,,,,,n/a,Euro,Stoltenberg-Farrell,784,n/a,n/a,Euro
+,,,,,,,,,,,,n/a,Manat,Gusikowski and Sons,894,n/a,n/a,Manat
+,,,,,,,,,,,,n/a,Real,Howell LLC,312,Specialty Chemicals,n/a,Real
+,,,,,,,,,,,,Professional Services,Kuna,"Funk, Powlowski and Pollich",745,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Professional Services,Kuna
+,,,,,,,,,,,,Industrial Machinery/Components,Cordoba,Lehner Group,779,Medical/Dental Instruments,Industrial Machinery/Components,Cordoba
+,,,,,,,,,,,,Major Banks,Zloty,Nitzsche Inc,322,Business Services,Major Banks,Zloty
+,,,,,,,,,,,,RETAIL: Building Materials,Tala,Rice and Sons,710,Business Services,RETAIL: Building Materials,Tala
+,,,,,,,,,,,,n/a,Shilling,Morar-Kovacek,742,Television Services,n/a,Shilling
+,,,,,,,,,,,,Biotechnology: Commercial Physical & Biological Resarch,Ruble,Hagenes LLC,698,n/a,Biotechnology: Commercial Physical & Biological Resarch,Ruble
+,,,,,,,,,,,,Major Banks,Yuan Renminbi,Gottlieb-Bergnaum,589,Medical/Dental Instruments,Major Banks,Yuan Renminbi
+,,,,,,,,,,,,n/a,Peso,"Swift, Collins and Schaefer",636,Real Estate Investment Trusts,n/a,Peso
+,,,,,,,,,,,,Oil & Gas Production,Dollar,Schamberger LLC,642,Business Services,Oil & Gas Production,Dollar
+,,,,,,,,,,,,Major Banks,Ruble,Dietrich-Heaney,770,Business Services,Major Banks,Ruble
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Herzog, Jakubowski and Brakus",418,EDP Services,n/a,Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Real,Lebsack LLC,625,Oil Refining/Marketing,Major Banks,Real
+,,,,,,,,,,,,Air Freight/Delivery Services,Rupiah,Parisian LLC,417,Major Pharmaceuticals,Air Freight/Delivery Services,Rupiah
+,,,,,,,,,,,,n/a,Yuan Renminbi,Ernser-Kuhic,910,n/a,n/a,Yuan Renminbi
+,,,,,,,,,,,,n/a,Ruble,Beahan Inc,907,n/a,n/a,Ruble
+,,,,,,,,,,,,Industrial Machinery/Components,Euro,Keebler-McCullough,593,Natural Gas Distribution,Industrial Machinery/Components,Euro
+,,,,,,,,,,,,n/a,Euro,Rice Inc,791,n/a,n/a,Euro
+,,,,,,,,,,,,Publishing,Yuan Renminbi,Hansen-Kub,798,Investment Bankers/Brokers/Service,Publishing,Yuan Renminbi
+,,,,,,,,,,,,Semiconductors,Euro,"Wunsch, Reinger and Stroman",446,RETAIL: Building Materials,Semiconductors,Euro
+,,,,,,,,,,,,Major Banks,Dinar,"Pfannerstill, Schroeder and McGlynn",405,n/a,Major Banks,Dinar
+,,,,,,,,,,,,n/a,Yuan Renminbi,Borer-McDermott,478,n/a,n/a,Yuan Renminbi
+,,,,,,,,,,,,Industrial Machinery/Components,Dollar,"Hane, Ritchie and Ledner",486,n/a,Industrial Machinery/Components,Dollar
+,,,,,,,,,,,,Business Services,Euro,Funk-Hamill,812,Telecommunications Equipment,Business Services,Euro
+,,,,,,,,,,,,Paper,Krona,Anderson-Hammes,743,n/a,Paper,Krona
+,,,,,,,,,,,,Major Banks,Yuan Renminbi,Little and Sons,584,Real Estate Investment Trusts,Major Banks,Yuan Renminbi
+,,,,,,,,,,,,n/a,Krona,Nitzsche-Aufderhar,368,Major Banks,n/a,Krona
+,,,,,,,,,,,,Industrial Machinery/Components,Rupiah,"Koelpin, Jakubowski and Jones",833,Telecommunications Equipment,Industrial Machinery/Components,Rupiah
+,,,,,,,,,,,,Investment Bankers/Brokers/Service,Yuan Renminbi,Raynor Group,508,n/a,Investment Bankers/Brokers/Service,Yuan Renminbi
+,,,,,,,,,,,,Telecommunications Equipment,Yuan Renminbi,Raynor and Sons,796,Property-Casualty Insurers,Telecommunications Equipment,Yuan Renminbi
+,,,,,,,,,,,,Diversified Commercial Services,Peso,Abernathy-Rippin,426,Business Services,Diversified Commercial Services,Peso
+,,,,,,,,,,,,Investment Bankers/Brokers/Service,Baht,Mitchell-Bashirian,395,n/a,Investment Bankers/Brokers/Service,Baht
+,,,,,,,,,,,,Property-Casualty Insurers,Yuan Renminbi,"Raynor, Fahey and Mraz",882,n/a,Property-Casualty Insurers,Yuan Renminbi
+,,,,,,,,,,,,Precision Instruments,Ruble,"Gislason, Bosco and Howell",467,Hospital/Nursing Management,Precision Instruments,Ruble
+,,,,,,,,,,,,n/a,Ruble,Bosco and Sons,807,Oilfield Services/Equipment,n/a,Ruble
+,,,,,,,,,,,,Real Estate Investment Trusts,Euro,"Wyman, Zemlak and Hermiston",445,Savings Institutions,Real Estate Investment Trusts,Euro
+,,,,,,,,,,,,Semiconductors,Zloty,"King, Schaefer and Ratke",746,Natural Gas Distribution,Semiconductors,Zloty
+,,,,,,,,,,,,Oil & Gas Production,Yuan Renminbi,"Jaskolski, Klein and Koch",647,n/a,Oil & Gas Production,Yuan Renminbi
+,,,,,,,,,,,,Catalog/Specialty Distribution,Dollar,Schultz-Hansen,944,Electric Utilities: Central,Catalog/Specialty Distribution,Dollar
+,,,,,,,,,,,,Industrial Specialties,Yuan Renminbi,Rowe LLC,772,Business Services,Industrial Specialties,Yuan Renminbi
+,,,,,,,,,,,,Telecommunications Equipment,Koruna,"Bogisich, Nolan and Cole",877,Major Banks,Telecommunications Equipment,Koruna
+,,,,,,,,,,,,Specialty Chemicals,Peso,"Mueller, Kassulke and Quitzon",876,n/a,Specialty Chemicals,Peso
+,,,,,,,,,,,,Trucking Freight/Courier Services,Krona,Lindgren-Ward,888,"Computer Software: Programming, Data Processing",Trucking Freight/Courier Services,Krona
+,,,,,,,,,,,,Major Banks,Euro,Schroeder-Turner,802,Automotive Aftermarket,Major Banks,Euro
+,,,,,,,,,,,,n/a,Yuan Renminbi,"Balistreri, Franecki and Fadel",366,Major Pharmaceuticals,n/a,Yuan Renminbi
+,,,,,,,,,,,,n/a,Ruble,"Gorczany, Wilkinson and Jacobi",696,Electric Utilities: Central,n/a,Ruble
+,,,,,,,,,,,,Electronic Components,Yuan Renminbi,"Collins, Russel and Monahan",406,Computer Software: Prepackaged Software,Electronic Components,Yuan Renminbi
+,,,,,,,,,,,,Major Pharmaceuticals,Rupiah,"Luettgen, Lang and Connelly",583,Medical/Dental Instruments,Major Pharmaceuticals,Rupiah
+,,,,,,,,,,,,Major Pharmaceuticals,Rupiah,"Wiza, Mante and Hauck",524,Real Estate,Major Pharmaceuticals,Rupiah
+,,,,,,,,,,,,Beverages (Production/Distribution),Zloty,Daniel Group,323,Oil/Gas Transmission,Beverages (Production/Distribution),Zloty
+,,,,,,,,,,,,n/a,Real,"Lowe, O'Kon and Ebert",453,Computer Software: Prepackaged Software,n/a,Real
+,,,,,,,,,,,,Computer Software: Prepackaged Software,Peso,Kuhic Group,798,Major Banks,Computer Software: Prepackaged Software,Peso
+,,,,,,,,,,,,Marine Transportation,Tenge,Kerluke LLC,853,n/a,Marine Transportation,Tenge
+,,,,,,,,,,,,Consumer Electronics/Video Chains,Yuan Renminbi,"Ferry, Hammes and Trantow",512,n/a,Consumer Electronics/Video Chains,Yuan Renminbi
+,,,,,,,,,,,,n/a,Yuan Renminbi,Goodwin and Sons,572,Biotechnology: Electromedical & Electrotherapeutic Apparatus,n/a,Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Yuan Renminbi,"Jakubowski, Lindgren and Bednar",405,Real Estate Investment Trusts,Major Banks,Yuan Renminbi
+,,,,,,,,,,,,Oil & Gas Production,Yuan Renminbi,Bergstrom-Fahey,824,Biotechnology: Commercial Physical & Biological Resarch,Oil & Gas Production,Yuan Renminbi
+,,,,,,,,,,,,Oil & Gas Production,Yuan Renminbi,"Cummings, Welch and Bartoletti",482,Transportation Services,Oil & Gas Production,Yuan Renminbi
+,,,,,,,,,,,,n/a,Lempira,"Bahringer, Denesik and O'Hara",429,Computer Software: Prepackaged Software,n/a,Lempira
+,,,,,,,,,,,,Property-Casualty Insurers,Dollar,Klocko-Macejkovic,617,n/a,Property-Casualty Insurers,Dollar
+,,,,,,,,,,,,Metal Fabrications,Zloty,Johnston-Shanahan,365,n/a,Metal Fabrications,Zloty
+,,,,,,,,,,,,n/a,Dong,Johns-Schoen,847,n/a,n/a,Dong
+,,,,,,,,,,,,Military/Government/Technical,Tugrik,"Hansen, Kertzmann and Koch",874,n/a,Military/Government/Technical,Tugrik
+,,,,,,,,,,,,Real Estate,Som,Bruen and Sons,887,Military/Government/Technical,Real Estate,Som
+,,,,,,,,,,,,Oilfield Services/Equipment,Euro,Schneider-Kessler,335,Industrial Specialties,Oilfield Services/Equipment,Euro
+,,,,,,,,,,,,Railroads,Rupiah,Stehr-Kling,473,Real Estate Investment Trusts,Railroads,Rupiah
+,,,,,,,,,,,,Construction/Ag Equipment/Trucks,Rupiah,Ebert and Sons,700,Power Generation,Construction/Ag Equipment/Trucks,Rupiah
+,,,,,,,,,,,,Business Services,Dollar,Weber LLC,549,n/a,Business Services,Dollar
+,,,,,,,,,,,,Major Chemicals,Boliviano,Hoppe-Boyer,934,Major Pharmaceuticals,Major Chemicals,Boliviano
+,,,,,,,,,,,,Major Pharmaceuticals,Zloty,Runolfsson Group,451,n/a,Major Pharmaceuticals,Zloty
+,,,,,,,,,,,,Investment Bankers/Brokers/Service,Pound,Kertzmann-Homenick,800,EDP Services,Investment Bankers/Brokers/Service,Pound
+,,,,,,,,,,,,Natural Gas Distribution,Rial,Schuppe-Hills,858,Oil & Gas Production,Natural Gas Distribution,Rial
+,,,,,,,,,,,,n/a,Real,Kulas Group,890,Major Banks,n/a,Real
+,,,,,,,,,,,,Major Banks,Bolivar,McGlynn Group,567,Business Services,Major Banks,Bolivar
+,,,,,,,,,,,,Real Estate,Dollar,Barrows LLC,553,n/a,Real Estate,Dollar
+,,,,,,,,,,,,Industrial Machinery/Components,Ruble,Mohr-Koepp,477,n/a,Industrial Machinery/Components,Ruble
+,,,,,,,,,,,,Forest Products,Zloty,Champlin and Sons,896,Military/Government/Technical,Forest Products,Zloty
+,,,,,,,,,,,,Oilfield Services/Equipment,Yuan Renminbi,Bashirian-Kozey,654,n/a,Oilfield Services/Equipment,Yuan Renminbi
+,,,,,,,,,,,,n/a,Franc,Lockman-Mayer,782,EDP Services,n/a,Franc
+,,,,,,,,,,,,Property-Casualty Insurers,Euro,Schamberger Group,932,Business Services,Property-Casualty Insurers,Euro
+,,,,,,,,,,,,n/a,Tenge,Schinner-Witting,914,n/a,n/a,Tenge
+,,,,,,,,,,,,Specialty Chemicals,Dollar,"Zemlak, Hane and Schulist",781,Real Estate,Specialty Chemicals,Dollar
+,,,,,,,,,,,,Electric Utilities: Central,Yuan Renminbi,Fay-Kertzmann,520,Major Pharmaceuticals,Electric Utilities: Central,Yuan Renminbi
+,,,,,,,,,,,,Major Banks,Dollar,Cassin Group,732,Industrial Machinery/Components,Major Banks,Dollar
+,,,,,,,,,,,,n/a,Sol,Davis LLC,947,Real Estate,n/a,Sol
+,,,,,,,,,,,,Department/Specialty Retail Stores,Yuan Renminbi,"Collins, Glover and Thompson",362,Major Chemicals,Department/Specialty Retail Stores,Yuan Renminbi
